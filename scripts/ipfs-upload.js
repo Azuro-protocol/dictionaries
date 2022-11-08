@@ -15,12 +15,12 @@ const fs = require('fs');
 
     for await (const file of azuroIpfs.addAll(globSource(pathname, '**/*.json'))) {
       process.stdout.write('.')
-      dicts.push(`${pathname}/${file.path} -> ${gateway}/${file.cid.toString()}`)
+      dicts.push(`- ${pathname}/${file.path} → [${file.cid.toString()}](${gateway}/${file.cid.toString()})`)
     }
 
     theGraphIpfs.addAll(globSource(pathname, '**/*.json'))
   }
 
-  await fs.promises.writeFile('./README.md', Buffer.from(dicts.join('\n')))
+  await fs.promises.writeFile('./README.md', Buffer.from(dicts.join('\n\n')))
 
 })()
