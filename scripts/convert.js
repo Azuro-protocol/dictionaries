@@ -16,7 +16,7 @@ const fs = require('fs');
     } else {
       map = Object.keys(content).map((key) => ({ id: parseInt(key), value: content[key] }))
     }
-    const json = JSON.stringify(map, null, 4)
+    const json = JSON.stringify(map, null, 2)
     await fs.promises.writeFile(path.join('./v1/arrays', path.basename(file.path)), Buffer.from(json))
 
   }
@@ -31,7 +31,7 @@ const fs = require('fs');
     } else {
       map = Object.keys(content).map((key) => ({ id: parseInt(key), value: content[key] }))
     }
-    const json = JSON.stringify(map, null, 4)
+    const json = JSON.stringify(map, null, 2)
     await fs.promises.writeFile(path.join('./v2/arrays', path.basename(file.path)), Buffer.from(json))
 
   }
