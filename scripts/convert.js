@@ -6,8 +6,8 @@ const fs = require('fs');
 
 (async () => {
 
-  for await (const file of globSource('./v1/maps', '**/*.json')) {
-    const content = JSON.parse(await fs.promises.readFile(path.join('./v1/maps', file.path), 'utf-8'))
+  for await (const file of globSource('./dictionaries/v1/maps', '**/*.json')) {
+    const content = JSON.parse(await fs.promises.readFile(path.join('./dictionaries/v1/maps', file.path), 'utf-8'))
 
     let map
 
@@ -17,12 +17,12 @@ const fs = require('fs');
       map = Object.keys(content).map((key) => ({ id: parseInt(key), value: content[key] }))
     }
     const json = JSON.stringify(map, null, 2)
-    await fs.promises.writeFile(path.join('./v1/arrays', path.basename(file.path)), Buffer.from(json))
+    await fs.promises.writeFile(path.join('./dictionaries/v1/arrays', path.basename(file.path)), Buffer.from(json))
 
   }
 
-  for await (const file of globSource('./v2/maps', '**/*.json')) {
-    const content = JSON.parse(await fs.promises.readFile(path.join('./v2/maps', file.path), 'utf-8'))
+  for await (const file of globSource('./dictionaries/v2/maps', '**/*.json')) {
+    const content = JSON.parse(await fs.promises.readFile(path.join('./dictionaries/v2/maps', file.path), 'utf-8'))
 
     let map
 
@@ -32,7 +32,7 @@ const fs = require('fs');
       map = Object.keys(content).map((key) => ({ id: parseInt(key), value: content[key] }))
     }
     const json = JSON.stringify(map, null, 2)
-    await fs.promises.writeFile(path.join('./v2/arrays', path.basename(file.path)), Buffer.from(json))
+    await fs.promises.writeFile(path.join('./dictionaries/v2/arrays', path.basename(file.path)), Buffer.from(json))
 
   }
 

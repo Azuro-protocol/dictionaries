@@ -11,7 +11,7 @@ const fs = require('fs');
 
   const dicts = []
 
-  for await (const pathname of ['./v1/maps', './v1/arrays', './v2/maps', './v2/arrays']) {
+  for await (const pathname of ['./dictionaries/v1/maps', './dictionaries/v1/arrays', './dictionaries/v2/maps', './dictionaries/v2/arrays']) {
 
     for await (const file of azuroIpfs.addAll(globSource(pathname, '**/*.json'))) {
       process.stdout.write('.')
@@ -21,6 +21,6 @@ const fs = require('fs');
     theGraphIpfs.addAll(globSource(pathname, '**/*.json'))
   }
 
-  await fs.promises.writeFile('./README.md', Buffer.from(dicts.join('\n\n')))
+  await fs.promises.writeFile('./dictionaries/README.md', Buffer.from(dicts.join('\n\n')))
 
 })()

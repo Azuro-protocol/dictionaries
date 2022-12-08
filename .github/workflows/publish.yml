@@ -1,0 +1,25 @@
+name: Publishing
+
+on:
+  push:
+    branches:
+      - "main"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Publish
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.GHCR_PAT }}
+          publish_branch: main
+          publish_dir: ./dictionaries
+          external_repository: azuro-protocol/public-config
+          destination_dir: dictionaries
+          keep_files: true
