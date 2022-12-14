@@ -1,3 +1,4 @@
+const path = require('path')
 const { create, globSource } = require('ipfs-http-client')
 
 const gateway = 'https://ipfs-gateway.azuro.org/ipfs'
@@ -11,9 +12,9 @@ const fs = require('fs');
 
   const dicts = []
 
-  for await (const pathname of ['./dictionaries/v1/maps', './dictionaries/v1/arrays', './dictionaries/v2/maps', './dictionaries/v2/arrays']) {
+  for await (const pathname of ['./v1/maps', './v1/arrays', './v2/maps', './v2/arrays']) {
 
-    for await (const file of azuroIpfs.addAll(globSource(pathname, '**/*.json'))) {
+    for await (const file of azuroIpfs.addAll(globSource(path.join('./dictionaries', pathname), '**/*.json'))) {
       process.stdout.write('.')
       dicts.push(`- ${pathname}/${file.path} → [${file.cid.toString()}](${gateway}/${file.cid.toString()})`)
     }
