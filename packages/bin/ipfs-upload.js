@@ -1,9 +1,10 @@
 const path = require('path')
+const https = require('https')
 const { create, globSource } = require('ipfs-http-client')
 
 const gateway = 'https://ipfs.bookmaker.xyz/ipfs'
 
-const api = create({ url: "https://ipfs.bookmaker.xyz/api/v0" })
+const api = create({ url: "https://ipfs.bookmaker.xyz/api/v0", agent: new https.Agent() })
 const fs = require('fs')
 
 ;(async () => {
