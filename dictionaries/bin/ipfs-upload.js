@@ -6,18 +6,24 @@ const gateway = 'https://ipfs.bookmaker.xyz/ipfs'
 const api = create({ url: "https://ipfs.bookmaker.xyz/api/v0" })
 const fs = require('fs')
 
+const directories = ['maps', 'arrays']
+
 ;(async () => {
 
-  const dicts = []
+  
+  for (const directory of directories) {
 
-  for await (const sourceFile of globSource(path.join('../dictionaries'), '**/*.json')) {
+    const dicts = []
 
-    const file = await api.add(sourceFile)
-    dicts.push(`- ./${file.path} → [${file.cid.toString()}](${gateway}/${file.cid.toString()})`)
-
-    process.stdout.write('.')
+    for await (const sourceFile of globSource(path.join('../dictionaries/', directory), '**/*.json')) {
+  
+      const file = await api.add(sourceFile)
+      dicts.push(`- ./${directory}${sourceFile.path} → [${file.cid.toString()}](${gateway}/${file.cid.toString()})`)
+  
+      process.stdout.write('.')
+      await fs.promises.writeFile(path.join('../dictionaries/', directory, 'README.md'), Buffer.from(dicts.join('\n\n')))
+    }
+  
   }
-
-  await fs.promises.writeFile('../dictionaries/README.md', Buffer.from(dicts.join('\n\n')))
 
 })()

@@ -22,26 +22,46 @@ jobs:
         with:
           node-version: 16
           cache: 'npm'
-          cache-dependency-path: packages/package-lock.json
+          cache-dependency-path: dictionaries/package-lock.json
 
       - name: Install packages
-        working-directory: packages
+        working-directory: dictionaries
         run: npm ci
 
       - name: npm run convert
-        working-directory: packages
+        working-directory: dictionaries
         run: npm run convert
 
       - name: npm run upload
-        working-directory: packages
+        working-directory: dictionaries
         run: npm run upload
 
-      - name: Publish
+      - name: Publish maps
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.GHCR_PAT }}
           publish_branch: main
-          publish_dir: ./dictionaries
+          publish_dir: ./dictionaries/maps
           external_repository: azuro-protocol/public-config
-          destination_dir: dictionaries/${{ steps.branch-name.outputs.current_branch }}
+          destination_dir: dictionaries/${{ steps.branch-name.outputs.current_branch }}/maps
+          keep_files: true
+
+      - name: Publish arrays
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.GHCR_PAT }}
+          publish_branch: main
+          publish_dir: ./dictionaries/arrays
+          external_repository: azuro-protocol/public-config
+          destination_dir: dictionaries/${{ steps.branch-name.outputs.current_branch }}/arrays
+          keep_files: true
+
+      - name: Publish js
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.GHCR_PAT }}
+          publish_branch: main
+          publish_dir: ./dictionaries/js
+          external_repository: azuro-protocol/public-config
+          destination_dir: dictionaries/${{ steps.branch-name.outputs.current_branch }}/js
           keep_files: true

@@ -1,4 +1,6 @@
 node_modules
 
 dictionaries/arrays/**
-dictionaries/README.md
+dictionaries/js/**
+
+dictionaries/maps/README.md
