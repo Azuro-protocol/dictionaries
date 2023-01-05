@@ -1,6 +1,8 @@
-node_modules
+.idea
+.DS_Store
 
-dictionaries/arrays/**
-dictionaries/js/**
+out/
+dist/
+node_modules/
 
-dictionaries/maps/README.md
+dictionaries/out/**/README.md
