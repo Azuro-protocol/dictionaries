@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "convert": "node ./scripts/convert.js",
-    "upload": "node ./scripts/ipfs-upload.js"
+    "convert": "node ./bin/convert.js",
+    "upload": "node ./bin/ipfs-upload.js"
   },
   "author": "",
   "license": "ISC",

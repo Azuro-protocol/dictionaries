@@ -3,7 +3,7 @@ name: Publishing
 on:
   push:
     branches:
-      - "main"
+      - "v**"
 
   workflow_dispatch:
 
@@ -12,7 +12,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+
+      - name: Get branch name
+        id: branch-name
+        uses: tj-actions/branch-names@v5.2
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: 'npm'
+          cache-dependency-path: packages/package-lock.json
+
+      - name: Install packages
+        working-directory: packages
+        run: npm ci
+
+      - name: npm run convert
+        working-directory: packages
+        run: npm run convert
+
+      - name: npm run upload
+        working-directory: packages
+        run: npm run upload
 
       - name: Publish
         uses: peaceiris/actions-gh-pages@v3
@@ -21,5 +43,5 @@ jobs:
           publish_branch: main
           publish_dir: ./dictionaries
           external_repository: azuro-protocol/public-config
-          destination_dir: dictionaries
+          destination_dir: dictionaries/${{ steps.branch-name.outputs.current_branch }}
           keep_files: true
