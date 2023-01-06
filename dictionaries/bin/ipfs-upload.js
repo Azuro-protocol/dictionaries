@@ -1,29 +1,36 @@
+const fs = require('fs')
 const path = require('path')
 const { create, globSource } = require('ipfs-http-client')
 
-const gateway = 'https://ipfs.bookmaker.xyz/ipfs'
 
-const api = create({ url: "https://ipfs.bookmaker.xyz/api/v0" })
-const fs = require('fs')
+const SOURCE_DIR = '../dictionaries/out'
+const IPFS_GATEWAY = 'https://ipfs.bookmaker.xyz/ipfs'
+const API_URL = 'https://ipfs.bookmaker.xyz/api/v0'
+const DIRECTORIES = [ 'maps', 'arrays' ]
 
-const directories = ['maps', 'arrays']
+const api = create({ url: API_URL })
 
-;(async () => {
+const upload = async () => {
+  for (const directory of DIRECTORIES) {
+    const files = []
 
-  
-  for (const directory of directories) {
+    for await (const sourceFile of globSource(SOURCE_DIR, '**/*.json')) {
+      const ipfsFile = await api.add(sourceFile.content)
 
-    const dicts = []
+      const CID = ipfsFile.cid.toString()
+      const filepath = `.${sourceFile.path}`
+      const link = `[${CID}](${IPFS_GATEWAY}/${CID})`
 
-    for await (const sourceFile of globSource(path.join('../dictionaries/', directory), '**/*.json')) {
-  
-      const file = await api.add(sourceFile)
-      dicts.push(`- ./${directory}${sourceFile.path} → [${file.cid.toString()}](${gateway}/${file.cid.toString()})`)
-  
+      files.push(`- ${filepath} → ${link}`)
+
       process.stdout.write('.')
-      await fs.promises.writeFile(path.join('../dictionaries/', directory, 'README.md'), Buffer.from(dicts.join('\n\n')))
-    }
-  
-  }
 
-})()
+      const outputPath = path.join(SOURCE_DIR, directory, 'README.md')
+      const content = Buffer.from(files.join('\n\n'))
+
+      await fs.promises.writeFile(outputPath, content)
+    }
+  }
+}
+
+upload()
