@@ -42,7 +42,6 @@ jobs:
           personal_token: ${{ secrets.GHCR_PAT }}
           publish_branch: main
           publish_dir: ./dictionaries/out
-          exclude_assets: js
           external_repository: azuro-protocol/public-config
           destination_dir: dictionaries/${{ steps.branch-name.outputs.current_branch }}
           keep_files: true
