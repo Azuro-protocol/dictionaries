@@ -55,7 +55,7 @@ export default {
 
 const download = () => {
   console.log(`Start downloading dictionaries@${VERSION}.`)
-  // FILES.forEach(downloadFile)
+  FILES.forEach(downloadFile)
   createIndexFile()
 }
 
