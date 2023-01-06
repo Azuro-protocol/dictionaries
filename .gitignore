@@ -2,6 +2,7 @@
 .DS_Store
 
 out/
+lib/
 dist/
 node_modules/
 
