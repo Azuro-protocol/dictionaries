@@ -32,9 +32,9 @@ const convertOutcomesJSONToArray = (content) => {
   }))
 }
 
-const convertJSONToArray = (content) => {
+const convertJSONToArray = (content, integerIds = true) => {
   return Object.keys(content).map((key) => ({
-    id: parseInt(key),
+    id: integerIds ? parseInt(key) : key,
     value: content[key],
   }))
 }
@@ -113,8 +113,8 @@ const convert = async () => {
   await Promise.all([
     writeFile(OUTPUT_MAP_DIR, `marketNames.json`, marketNames),
     writeFile(OUTPUT_MAP_DIR, `marketDescriptions.json`, marketDescriptions),
-    writeFile(OUTPUT_ARR_DIR, `marketNames.json`, convertJSONToArray(marketNames)),
-    writeFile(OUTPUT_ARR_DIR, `marketDescriptions.json`, convertJSONToArray(marketDescriptions)),
+    writeFile(OUTPUT_ARR_DIR, `marketNames.json`, convertJSONToArray(marketNames, false)),
+    writeFile(OUTPUT_ARR_DIR, `marketDescriptions.json`, convertJSONToArray(marketDescriptions, false)),
     writeFile(OUTPUT_JS_DIR, `marketNames.js`, `module.exports = ${JSON.stringify(marketNames, null, 2)}`),
     writeFile(OUTPUT_JS_DIR, `marketDescriptions.js`, `module.exports = ${JSON.stringify(marketDescriptions, null, 2)}`),
   ])
