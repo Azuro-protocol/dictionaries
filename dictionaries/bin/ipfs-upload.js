@@ -15,17 +15,17 @@ const upload = async () => {
     const files = []
 
     for await (const sourceFile of globSource(SOURCE_DIR, '**/*.json')) {
-      const ipfsFile = await api.add(sourceFile)
+      const ipfsFile = await api.add(sourceFile.content)
 
       const CID = ipfsFile.cid.toString()
-      const filepath = `./${directory}${sourceFile.path}`
+      const filepath = `.${sourceFile.path}`
       const link = `[${CID}](${IPFS_GATEWAY}/${CID})`
 
       files.push(`- ${filepath} → ${link}`)
 
       process.stdout.write('.')
 
-      const outputPath = path.join('../dictionaries/', directory, 'README.md')
+      const outputPath = path.join(SOURCE_DIR, directory, 'README.md')
       const content = Buffer.from(files.join('\n\n'))
 
       await fs.promises.writeFile(outputPath, content)
