@@ -52,9 +52,9 @@ const convertOutcomesJSONToJS = (content) => {
     data += `${key}:[${selectionId},${marketId},${gamePeriodId},${gameTypeId},${gameVarietyId},${pointsId},${teamPlayerId}]`
   })
 
-  return `var data = {${data}};
+  return `const data = {${data}};
 
-module.exports = Object.keys(data).reduce((acc, key) => {
+export default Object.keys(data).reduce((acc, key) => {
   const [ selectionId, marketId, gamePeriodId, gameTypeId, gameVarietyId, pointsId, teamPlayerId ] = data[key]
   
   acc[key] = {
@@ -78,7 +78,7 @@ const convertJSONToJS = (content) => {
     return acc
   }, {})
 
-  return `module.exports = ${JSON.stringify(data, null, 2)}`
+  return `export default ${JSON.stringify(data, null, 2)}`
 }
 
 const convert = async () => {
@@ -115,8 +115,8 @@ const convert = async () => {
     writeFile(OUTPUT_MAP_DIR, `marketDescriptions.json`, marketDescriptions),
     writeFile(OUTPUT_ARR_DIR, `marketNames.json`, convertJSONToArray(marketNames, false)),
     writeFile(OUTPUT_ARR_DIR, `marketDescriptions.json`, convertJSONToArray(marketDescriptions, false)),
-    writeFile(OUTPUT_JS_DIR, `marketNames.js`, `module.exports = ${JSON.stringify(marketNames, null, 2)}`),
-    writeFile(OUTPUT_JS_DIR, `marketDescriptions.js`, `module.exports = ${JSON.stringify(marketDescriptions, null, 2)}`),
+    writeFile(OUTPUT_JS_DIR, `marketNames.js`, `export default ${JSON.stringify(marketNames, null, 2)}`),
+    writeFile(OUTPUT_JS_DIR, `marketDescriptions.js`, `export default ${JSON.stringify(marketDescriptions, null, 2)}`),
   ])
 }
 
