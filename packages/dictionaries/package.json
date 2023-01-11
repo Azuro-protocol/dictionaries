@@ -9,7 +9,8 @@
   "scripts": {
     "dev": "rollup -cw",
     "build": "rimraf ./dist && rimraf ./lib && rollup -c --compact",
-    "prepublish": "npm run build"
+    "prepublish": "npm run build",
+    "test-bin": "rimraf ./out && ./bin -o ./out "
   },
   "keywords": [
     "dictionaries",
