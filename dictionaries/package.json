@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "convert": "node ./bin/convert.js",
-    "upload": "node ./bin/ipfs-upload.js"
+    "convert": "node ./bin/convert",
+    "upload": "node ./bin/ipfs-upload"
   },
   "author": "",
   "license": "ISC",

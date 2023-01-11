@@ -19,15 +19,17 @@ It's easy to download dictionary files with CLI. In your package.json add script
 
 ```json
 "scripts": {
-  "get-dicts": "@azuro-protocol/dictionaries -v {VERSION} -o {OUTPUT_DIR}"
+  "get-dicts": "@azuro-protocol/dictionaries -o {OUTPUT_DIR} -v {VERSION} -t {FILES_TYPE}"
 }
 ```
 
-- `VERSION` is the version of the downloaded dictionaries. [Find the version you need here](https://github.com/Azuro-protocol/public-config/tree/main/dictionaries).
+- `VERSION` is the version of downloaded dictionaries. [Find the version you need here](https://github.com/Azuro-protocol/public-config/tree/main/dictionaries).
 - `OUTPUT_DIR` is the directory where to put downloaded files.
+- `FILES_TYPE` is the extension of downloaded files. Accepts `ts`, `js`, `maps`, `arrays`. `maps` and `arrays` are 
+json files with different output format.
 
 ```bash
-@azuro-protocol/dictionaries -v 2.0.0 -o ./dist # will download v2.0.0 files to ./dist directory
+@azuro-protocol/dictionaries -o ./dist -v 2.0.0 -t ts # will download v2.0.0 typescript files to ./dist directory
 ```
 
 
