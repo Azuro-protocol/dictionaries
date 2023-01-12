@@ -1,6 +1,6 @@
 {
   "name": "@azuro-protocol/dictionaries",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CLI and set of helpers to work with Azuro protocol dictionaries",
   "bin": "bin.js",
   "module": "dist/index.es.js",
@@ -10,7 +10,7 @@
     "dev": "rollup -cw",
     "build": "rimraf ./dist && rimraf ./lib && rollup -c --compact",
     "prepublish": "npm run build",
-    "test-bin": "rimraf ./out && ./bin -o ./out -t ts"
+    "test-bin": "rimraf ./out && node ./bin -v 2.0.1 -o ./out -t ts"
   },
   "keywords": [
     "dictionaries",

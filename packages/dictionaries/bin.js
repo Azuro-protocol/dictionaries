@@ -10,14 +10,26 @@ const VERSION = argv.version || argv.v
 const OUTPUT_PATH = argv.output || argv.o
 const FILE_TYPE = argv.type || argv.t
 
-const FILE_TYPE_TO_REMOTE_TYPE_DIR = {
-  'ts': 'ts',
-  'js': 'js',
-  'maps': 'json/maps',
-  'arrays': 'json/arrays',
+const filesData = {
+  'ts': {
+    dir: 'ts',
+    type: 'ts'
+  },
+  'js': {
+    dir: 'js',
+    type: 'js'
+  },
+  'maps': {
+    dir: 'json/maps',
+    type: 'json'
+  },
+  'arrays': {
+    dir: 'json/arrays',
+    type: 'json'
+  },
 }
 
-const REMOTE_TYPE_DIR = FILE_TYPE_TO_REMOTE_TYPE_DIR[FILE_TYPE]
+const fileData = filesData[FILE_TYPE]
 
 const FILES = [
   'outcomes',
@@ -34,8 +46,8 @@ const FILES = [
 ]
 
 const downloadFile = (filename) => {
-  const localFilepath = path.resolve(OUTPUT_PATH, `${filename}.js`)
-  const remoteFilepath = `${REMOTE_PATH}/v${VERSION}/${REMOTE_TYPE_DIR}/${filename}.js`
+  const localFilepath = path.resolve(OUTPUT_PATH, `${filename}.${fileData.type}`)
+  const remoteFilepath = `${REMOTE_PATH}/v${VERSION}/${fileData.dir}/${filename}.${fileData.type}`
 
   const pipeHandler = fs.createWriteStream(localFilepath)
 
