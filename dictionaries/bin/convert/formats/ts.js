@@ -15,7 +15,9 @@ const convertOutcomes = (content) => {
     data += `${key}:[${selectionId},${marketId},${gamePeriodId},${gameTypeId},${gameVarietyId},${pointsId},${teamPlayerId}]`
   })
 
-  return `const data = {${data}};
+  return `type Data = Record<string, [ number, number, number, number, number, null | number, null | number ]>
+
+const data: Data = {${data}};
   
 export type Outcomes = Record<string, {
   selectionId: number
@@ -23,8 +25,8 @@ export type Outcomes = Record<string, {
   gamePeriodId: number
   gameTypeId: number
   gameVarietyId: number
-  pointsId: number
-  teamPlayerId: number
+  pointsId: number | null
+  teamPlayerId: number | null
 }>
 
 export default Object.keys(data).reduce((acc, key) => {
@@ -41,7 +43,7 @@ export default Object.keys(data).reduce((acc, key) => {
   }
   
   return acc
-}, {}) as Outcomes
+}, {} as Outcomes)
 `
 }
 
