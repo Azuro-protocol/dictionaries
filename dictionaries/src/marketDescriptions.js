@@ -2,7 +2,7 @@
 // Key: 'marketId-gamePeriodId-gameTypeId[-teamPlayerId]'
 module.exports = {
   // Main
-  '1-1-1': 'You predict the result of a match at the end of regular play (90 mins). Bets can be placed by either selecting a Team 1 Win, a Draw or a Team 2 Win',
+  '1-1-1': 'You predict the result of a match at the end of regular play. Bets can be placed by either selecting a Team 1 Win, a Draw or a Team 2 Win',
   '2-1-1': 'A market that allows you to cover two of the three possible outcomes in a game with one bet. It is similar to full time result betting but effectively you back two outcomes in 1 bet.',
   '3-1-1': 'This is a bet where an artificial advantage is given to one of the teams. E.g. if \'Team 1\' has Handicap +1, it means that the final result of the game is determined after adding 1 goal to the number of goals scored by Team 1.',
   '4-1-1': 'A market where you place a bet on the total number of goals to be scored in a match by the end of regular play (90 mins). Bet either over or under a specific number of goals. E.g. if you choose over 2.5, you will need 3 goals or more to be scored. If you choose under 2.5 goals, you will need 2 goals or less to be scored.',
@@ -20,6 +20,7 @@ module.exports = {
   '3-1-54': 'Will the number of games adjusted for handicap played throughout the match exceed the stated number?',
   '3-1-69': 'Will Team 1 beat Team 2 in the number of maps adjusted for handicap?',
   '3-1-87': 'Will the number of sets adjusted for handicap played throughout the match exceed the stated number?',
+  '3-76-1': 'Will Team 1 beat Team 2 in the number of goals adjusted for handicap?',
   '3-76-76': 'Will Team 1 beat Team 2 in the number of points adjusted for handicap?',
 
   // Total
@@ -27,6 +28,7 @@ module.exports = {
   '4-1-54': 'How many games will it take to complete the match?',
   '4-1-60': 'Will the total kills by both teams be over or under the predicted score for all maps',
   '4-1-69': 'Will the total number of maps played be more or less than the forecasted score?',
+  '4-76-1': 'Will the total goals by both teams be over or under the predicted score for regular time?',
   '4-76-76': 'Will the total points by both teams be over or under the predicted score for regular time?',
 
   // Team 1

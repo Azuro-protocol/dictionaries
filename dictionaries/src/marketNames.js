@@ -20,6 +20,7 @@ module.exports = {
   '3-1-54': 'Handicap Games',
   '3-1-69': 'Maps Handicap',
   '3-1-87': 'Handicap Sets',
+  '3-76-1': 'Handicap',
   '3-76-76': 'Handicap',
 
   // Total
@@ -27,6 +28,7 @@ module.exports = {
   '4-1-54': 'Total Games',
   '4-1-60': 'Total Kills',
   '4-1-69': 'Total Maps',
+  '4-76-1': 'Total Goals',
   '4-76-76': 'Total Points',
 
   // Team 1
