@@ -6,7 +6,7 @@ This package provides 2 features: CLI to download dictionaries; helpers to work 
 ## Installation
 
 ```
-npm i --save @azuro-protocol/dictionaries
+npm i --save @azuro-org/dictionaries
 ```
 
 
@@ -19,7 +19,7 @@ It's easy to download dictionary files with CLI. In your package.json add script
 
 ```json
 "scripts": {
-  "get-dicts": "@azuro-protocol/dictionaries -o {OUTPUT_DIR} -v {VERSION} -t {FILES_TYPE}"
+  "get-dicts": "@azuro-org/dictionaries -o {OUTPUT_DIR} -v {VERSION} -t {FILES_TYPE}"
 }
 ```
 
@@ -29,20 +29,20 @@ It's easy to download dictionary files with CLI. In your package.json add script
 json files with different output format.
 
 ```bash
-@azuro-protocol/dictionaries -o ./dist -v 2.0.0 -t ts # will download v2.0.0 typescript files to ./dist directory
+@azuro-org/dictionaries -o ./dist -v 2.0.0 -t ts # will download v2.0.0 typescript files to ./dist directory
 ```
 
 
 ## Helpers
 
 ```js
-import { getMarketKey, getMarketName, getMarketDescription, assembleMarketName, assembleSelectionName } from '@azuro-protocol/dictionaries'
+import { getMarketKey, getMarketName, getMarketDescription, assembleMarketName, assembleSelectionName } from '@azuro-org/dictionaries'
 ```
 
 ### Get market name and description
 
 ```js
-import { getMarketKey } from '@azuro-protocol/dictionaries'
+import { getMarketKey } from '@azuro-org/dictionaries'
 import dictionaries from './path-to-downloaded-dictionaries'
 
 const outcomeId = 1
@@ -71,7 +71,7 @@ is other helper `assembleMarketName`. It generates human readable market name ba
 `gameTypeId`, `teamPlayerId`.
 
 ```
-import { getMarketKey, assembleMarketName } from '@azuro-protocol/dictionaries'
+import { getMarketKey, assembleMarketName } from '@azuro-org/dictionaries'
 import dictionaries from './path-to-downloaded-dictionaries'
 
 const outcomeId = 42
@@ -87,7 +87,7 @@ if (!marketName) {
 There are additional 2 sugar helpers:
 
 ```js
-import { getMarketName } from '@azuro-protocol/dictionaries'
+import { getMarketName } from '@azuro-org/dictionaries'
 import dictionaries from './path-to-downloaded-dictionaries'
 
 getMarketName(1, dictionaries) // "Full Time Result"
@@ -95,7 +95,7 @@ getMarketName(42, dictionaries) // "Whole game - Winner of match Goal"
 ```
 
 ```js
-import { getMarketDescription } from '@azuro-protocol/dictionaries'
+import { getMarketDescription } from '@azuro-org/dictionaries'
 import dictionaries from './path-to-downloaded-dictionaries'
 
 getMarketDescription(1, dictionaries) // "You predict the result..."
@@ -105,7 +105,7 @@ getMarketDescription(42, dictionaries) // undefined. Note that there is no `asse
 ### Get selection (outcome) name
 
 ```js
-import { assembleSelectionName } from '@azuro-protocol/dictionaries'
+import { assembleSelectionName } from '@azuro-org/dictionaries'
 import dictionaries from './dist'
 
 const outcomeId = 1
