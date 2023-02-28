@@ -19,7 +19,7 @@ It's easy to download dictionary files with CLI. In your package.json add script
 
 ```json
 "scripts": {
-  "get-dicts": "@azuro-org/dictionaries -o {OUTPUT_DIR} -v {VERSION} -t {FILES_TYPE}"
+  "get-dicts": "dictionaries -o {OUTPUT_DIR} -v {VERSION} -t {FILES_TYPE}"
 }
 ```
 
