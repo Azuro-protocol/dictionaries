@@ -29,7 +29,7 @@ It's easy to download dictionary files with CLI. In your package.json add script
 json files with different output format.
 
 ```bash
-@azuro-org/dictionaries -o ./dist -v 2.0.0 -t ts # will download v2.0.0 typescript files to ./dist directory
+dictionaries -o ./dist -v 2.0.0 -t ts # will download v2.0.0 typescript files to ./dist directory
 ```
 
 
