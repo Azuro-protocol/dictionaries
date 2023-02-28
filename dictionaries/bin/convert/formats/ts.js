@@ -47,6 +47,22 @@ export default Object.keys(data).reduce((acc, key) => {
 `
 }
 
+const convertSports = (content) => {
+  return `const sports = ${content} as const
+
+  export type SportTypeId = keyof typeof sports
+  export type SportSlug = typeof sports[SportTypeId]['slug']
+  
+  export const sportIdBySlug = Object.entries(sports).reduce((acc, [ id, { slug } ]) => {
+    acc[slug] = +id
+  
+    return acc
+  }, {} as Record<SportSlug, number>)
+  
+  export default sports
+  `
+}
+
 const convertOthers = (content) => {
   return `export default ${JSON.stringify(content, null, 2)} as Record<string, string>`
 }
@@ -55,11 +71,17 @@ module.exports = async (sources) => {
   for (let filename in sources) {
     let content = sources[filename]
 
-    if (filename === 'outcomes') {
-      content = convertOutcomes(content)
-    }
-    else {
-      content = convertOthers(content)
+    switch (filename) {
+      case 'sports':
+        content = convertSports(content)
+        break;
+
+      case 'outcomes':
+        content = convertOutcomes(content)
+        break;
+    
+      default:
+        content = convertOthers(content)
     }
 
     await writeFile(OUTPUT_TS_DIR, filename, 'ts', content)
