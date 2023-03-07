@@ -11,3 +11,5 @@ export {
   getMarketName,
   getMarketDescription,
 }
+
+export type { Dictionaries } from './types'
