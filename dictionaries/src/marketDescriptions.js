@@ -28,7 +28,6 @@ module.exports = {
   '4-1-54': 'How many games will it take to complete the match?',
   '4-1-60': 'Will the total kills by both teams be over or under the predicted score for all maps',
   '4-1-69': 'Will the total number of maps played be more or less than the forecasted score?',
-  '4-1-76': 'Will the total points by both teams be over or under the predicted score for regular time?',
   '4-76-1': 'Will the total goals by both teams be over or under the predicted score for the whole match including OT?',
   '4-76-76': 'Will the total points by both teams be over or under the predicted score for the whole match including OT?',
 
