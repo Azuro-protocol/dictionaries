@@ -4,8 +4,8 @@ module.exports = {
   // Main
   '1-1-1': 'You predict the result of a match at the end of regular play. Bets can be placed by either selecting a Team 1 Win, a Draw or a Team 2 Win',
   '2-1-1': 'A market that allows you to cover two of the three possible outcomes in a game with one bet. It is similar to full time result betting but effectively you back two outcomes in 1 bet.',
-  '3-1-1': 'This is a bet where an artificial advantage is given to one of the teams. E.g. if \'Team 1\' has Handicap +1, it means that the final result of the game is determined after adding 1 goal to the number of goals scored by Team 1.',
-  '4-1-1': 'A market where you place a bet on the total number of goals to be scored in a match by the end of regular play (90 mins). Bet either over or under a specific number of goals. E.g. if you choose over 2.5, you will need 3 goals or more to be scored. If you choose under 2.5 goals, you will need 2 goals or less to be scored.',
+  '3-1-1': 'Will Team 1 beat Team 2 in the number of goals adjusted for handicap for regular time?',
+  '4-1-1': 'Will the total goals by both teams be over or under the predicted score for regular time?',
   '9-1-1': 'A market where you predict whether or not both teams will score at least one goal in the game. You can bet on «yes» if you think that both teams will score or «no» if you think that one of the teams will not score.',
 
   // Match winner
@@ -13,14 +13,14 @@ module.exports = {
   '19-1-82': 'Which team will win the match?',
   '19-1-87': 'Which player will win the match?',
   '19-30-1': 'Which team will win the match?',
-  '19-75-51': 'Which player will win the match or in case of draw you will receive the refund',
+  '19-75-51': 'Which fighter will win? In the event of a draw, you will receive a refund.',
 
   // Handicap
   '3-1-46': 'Will a certain team shoot more corner kicks adjusted for a handicap than the opponent in a match?',
   '3-1-54': 'Will the number of games adjusted for handicap played throughout the match exceed the stated number?',
   '3-1-69': 'Will Team 1 beat Team 2 in the number of maps adjusted for handicap?',
   '3-1-87': 'Will the number of sets adjusted for handicap played throughout the match exceed the stated number?',
-  '3-76-1': 'Will Team 1 beat Team 2 in the number of goals adjusted for handicap?',
+  '3-76-1': 'Will Team 1 beat Team 2 in the number of goals adjusted for handicap for the whole match including OT?',
   '3-76-76': 'Will Team 1 beat Team 2 in the number of points adjusted for handicap?',
 
   // Total
@@ -28,20 +28,23 @@ module.exports = {
   '4-1-54': 'How many games will it take to complete the match?',
   '4-1-60': 'Will the total kills by both teams be over or under the predicted score for all maps',
   '4-1-69': 'Will the total number of maps played be more or less than the forecasted score?',
-  '4-76-1': 'Will the total goals by both teams be over or under the predicted score for regular time?',
-  '4-76-76': 'Will the total points by both teams be over or under the predicted score for regular time?',
+  '4-1-76': 'Will the total points by both teams be over or under the predicted score for regular time?',
+  '4-76-1': 'Will the total goals by both teams be over or under the predicted score for the whole match including OT?',
+  '4-76-76': 'Will the total points by both teams be over or under the predicted score for the whole match including OT?',
 
   // Team 1
-  '7-1-1-1': 'Will the total amount of goals scored within a game by Team 1 exceed the specified number?',
+  '7-1-1-1': 'Will the total amount of goals scored within a game by Team 1 exceed the specified number at the end of regulation time?',
   '7-1-54-1': 'How many games will Player 1 win?',
   '7-1-60-1': 'Will the total kills by first team be over or under the predicted score for all maps?',
-  '7-76-76-1': 'Will the total points by 1st Team be over or under the predicted score for regular time?',
+  '7-76-76-1': 'Will the total points by 1st Team be over or under the predicted score for the whole match including OT?',
+  '7-76-1-1': 'Will the total amount of goals scored within a game by Team 1 exceed the specified number for the whole match including OT?',
 
   // Team 2
-  '7-1-1-2': 'Will the total amount of goals scored within a game by Team 2 exceed the specified number?',
+  '7-1-1-2': 'Will the total amount of goals scored within a game by Team 2 exceed the specified number at the end of regulation time?',
   '7-1-54-2': 'How many games will Player 2 win?',
   '7-1-60-2': 'Will the total kills by second team be over or under the predicted score for all maps?',
-  '7-76-76-2': 'Will the total points by 2nd Team be over or under the predicted score for regular time?',
+  '7-76-76-2': 'Will the total points by 2nd Team be over or under the predicted score for the whole match including OT?',
+  '7-76-1-1': 'Will the total amount of goals scored within a game by Team 2 exceed the specified number for the whole match including OT?',
 
   // 1st Half
   '1-50-1': 'Which team will win the 1st half of the match?',
