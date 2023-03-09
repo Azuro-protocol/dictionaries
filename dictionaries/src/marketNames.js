@@ -13,14 +13,14 @@ module.exports = {
   '19-1-82': 'Match Winner',
   '19-1-87': 'Match Winner',
   '19-30-1': 'Match Winner',
-  '19-75-51': 'Match Winner',
+  '19-75-51': 'Fight Winner',
 
   // Handicap
   '3-1-46': 'Handicap Corners',
   '3-1-54': 'Handicap Games',
   '3-1-69': 'Maps Handicap',
   '3-1-87': 'Handicap Sets',
-  '3-76-1': 'Handicap',
+  '3-76-1': 'Handicap incl. OT',
   '3-76-76': 'Handicap',
 
   // Total
@@ -28,20 +28,23 @@ module.exports = {
   '4-1-54': 'Total Games',
   '4-1-60': 'Total Kills',
   '4-1-69': 'Total Maps',
-  '4-76-1': 'Total Goals',
-  '4-76-76': 'Total Points',
+  '4-1-76': 'Total Points',
+  '4-76-1': 'Total Goals incl. OT',
+  '4-76-76': 'Total Points incl. OT',
 
   // Team 1
   '7-1-1-1': 'Team 1 - Total Goals',
   '7-1-54-1': 'Player 1 - Total Games',
   '7-1-60-1': 'Team 1 Total Kills',
-  '7-76-76-1': '1st Team - Individual Total Points',
+  '7-76-76-1': '1st Team - Individual Total Points incl. OT',
+  '7-76-1-1': '1st Team - Individual Total Goals incl. OT',
 
   // Team 2
   '7-1-1-2': 'Team 2 - Total Goals',
   '7-1-54-2': 'Player 2 - Total Games',
   '7-1-60-2': 'Team 2 Total Kills',
-  '7-76-76-2': '2nd Team - Individual Total Points',
+  '7-76-76-2': '2nd Team - Individual Total Points incl. OT',
+  '7-76-1-1': '2nd Team - Individual Total Goals incl. OT',
 
   // 1st Half
   '1-50-1': '1st Half - Winner',
