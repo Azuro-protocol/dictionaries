@@ -10,16 +10,19 @@ module.exports = {
 
   // Match winner
   '19-1-69': 'Match Winner',
+  '19-1-76': 'Match Winner',
   '19-1-82': 'Match Winner',
   '19-1-87': 'Match Winner',
   '19-30-1': 'Match Winner',
   '19-75-51': 'Fight Winner',
   '19-76-1': 'Match Winner',
+  '19-76-83': 'Match Winner',
 
   // Handicap
   '3-1-46': 'Handicap Corners',
   '3-1-54': 'Handicap Games',
   '3-1-69': 'Maps Handicap',
+  '3-1-76': 'Points Handicap',
   '3-1-87': 'Handicap Sets',
   '3-76-1': 'Handicap incl. OT',
   '3-76-76': 'Handicap incl. OT',
@@ -29,6 +32,7 @@ module.exports = {
   '4-1-54': 'Total Games',
   '4-1-60': 'Total Kills',
   '4-1-69': 'Total Maps',
+  '4-1-76': 'Total Points',
   '4-76-1': 'Total Goals incl. OT',
   '4-76-76': 'Total Points incl. OT',
 
@@ -54,6 +58,8 @@ module.exports = {
   '4-50-46': '1st Half - Total Corners',
   '7-50-1-1': '1st Half - Team 1 - Total Goals',
   '7-50-1-2': '1st Half - Team 2 - Total Goals',
+  '7-50-76-1': '1st Half - Team 1 - Total Points',
+  '7-50-76-2': '1st Half - Team 2 - Total Points',
   '9-50-1': '1st Half - Both Teams To Score',
   '11-50-1': '1st Half - Either Team To Score',
   '19-50-76': '1st Half - Full Time Result',
@@ -73,8 +79,9 @@ module.exports = {
   '23-78-71': 'Map 1 - Overtime',
   '24-78-43': 'Map 1 - 1st Barracks',
   '24-78-52': 'Map 1 - 1st Blood',
-  '24-78-95': 'Map 1 - 1st Tower',
   '24-78-81': 'Map 1 - 1st Roshan',
+  '24-78-95': 'Map 1 - 1st Tower',
+
 
   // Map 2
   '3-140-60': 'Map 2 - Kill Handicap',
