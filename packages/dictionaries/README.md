@@ -23,13 +23,21 @@ It's easy to download dictionary files with CLI. In your package.json add script
 }
 ```
 
-- `VERSION` is the version of downloaded dictionaries. [Find the version you need here](https://github.com/Azuro-protocol/public-config/tree/main/dictionaries).
+- `VERSION` is the version of downloaded dictionaries. [Check versions](https://github.com/Azuro-protocol/public-config/tree/main/dictionaries).
 - `OUTPUT_DIR` is the directory where to put downloaded files.
 - `FILES_TYPE` is the extension of downloaded files. Accepts `ts`, `js`, `maps`, `arrays`. `maps` and `arrays` are 
 json files with different output format.
 
+**Examples**
+
 ```bash
-dictionaries -o ./dist -v 2.0.0 -t ts # will download v2.0.0 typescript files to ./dist directory
+dictionaries -o ./dist -v 2.0.3 -t ts # will download v2.0.3 typescript files to ./dist directory
+```
+
+Use `latest` value for the version param to download the latest dictionaries update.
+
+```bash
+dictionaries -o ./dist -v latest -t js # will download latest javascript files to ./dist directory
 ```
 
 

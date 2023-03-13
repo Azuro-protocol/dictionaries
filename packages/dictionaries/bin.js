@@ -45,9 +45,9 @@ const FILES = [
   'marketDescriptions',
 ]
 
-const downloadFile = (filename) => {
+const downloadFile = (filename, version) => {
   const localFilepath = path.resolve(OUTPUT_PATH, `${filename}.${fileData.type}`)
-  const remoteFilepath = `${REMOTE_PATH}/v${VERSION}/${fileData.dir}/${filename}.${fileData.type}`
+  const remoteFilepath = `${REMOTE_PATH}/${version}/${fileData.dir}/${filename}.${fileData.type}`
 
   const pipeHandler = fs.createWriteStream(localFilepath)
 
@@ -75,9 +75,56 @@ export default {
   fs.promises.writeFile(outputPath, content)
 }
 
-const download = () => {
-  console.log(`Start downloading dictionaries@${VERSION}.`)
-  FILES.forEach(downloadFile)
+const getLatestVersion = () => {
+  return new Promise((resolve) => {
+    const options = {
+      hostname: 'api.github.com',
+      port: 443,
+      path: '/repos/azuro-protocol/public-config/contents/dictionaries',
+      method: 'GET',
+      headers: {
+        'User-Agent': 'Azuro-protocol',
+      }
+    }
+
+    const req = https.request(options, (res) => {
+      let body = ''
+
+      res.on('data', (chunk) => {
+        body += chunk
+      })
+
+      res.on('end', () => {
+        let resp = JSON.parse(body)
+
+        resolve(resp[resp.length - 1].name)
+      })
+    })
+
+    req.on('error', (err) => {
+      console.error(err)
+      process.exit(1)
+    })
+
+    req.end()
+  })
+}
+
+const download = async () => {
+  let version
+
+  if (!VERSION || VERSION === 'latest') {
+    version = await getLatestVersion()
+  }
+  else {
+    version = `v${VERSION.replace(/[^.\d]/g, '')}`
+  }
+
+  console.log(`Start downloading dictionaries@${version}`)
+
+  FILES.forEach((filename) => {
+    downloadFile(filename, version)
+  })
 
   if (FILE_TYPE === 'ts' || FILE_TYPE === 'js') {
     createIndexFile(FILE_TYPE)
