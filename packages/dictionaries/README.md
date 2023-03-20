@@ -5,7 +5,7 @@ This package provides 2 features: CLI to download dictionaries; helpers to work 
 
 ## Installation
 
-```
+```bash
 npm i --save @azuro-org/dictionaries
 ```
 
@@ -31,7 +31,7 @@ json files with different output format.
 **Examples**
 
 ```bash
-dictionaries -o ./dist -v 2.0.3 -t ts # will download v2.0.3 typescript files to ./dist directory
+dictionaries -o ./dist -v 2.0.7 -t ts # will download v2.0.7 typescript files to ./dist directory
 ```
 
 Use `latest` value for the version param to download the latest dictionaries update.
@@ -65,7 +65,7 @@ In the example above the result is `1-1-1`.
 There are two dictionary files `marketNames.js` and `marketDescriptions.js`. `marketKey` is used to receive market name 
 and description for specific outcome ID.
 
-```
+```js
 import dictionaries from './path-to-downloaded-dictionaries'
 
 dictionaries.marketNames['1-1-1'] // "Full Time Result" 
@@ -78,7 +78,7 @@ dictionaries.marketDescriptions['1-1-1'] // "You predict the result..."
 is other helper `assembleMarketName`. It generates human readable market name based on outcome `marketId`, `gamePeriodId`, 
 `gameTypeId`, `teamPlayerId`.
 
-```
+```js
 import { getMarketKey, assembleMarketName } from '@azuro-org/dictionaries'
 import dictionaries from './path-to-downloaded-dictionaries'
 
