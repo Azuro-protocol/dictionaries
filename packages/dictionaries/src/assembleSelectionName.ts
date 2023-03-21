@@ -2,7 +2,11 @@ import { MARKET_IDS___USE_TEAM_PLAYER_INSTEAD_OUTCOME } from './constants'
 import type { Dictionaries } from './types'
 
 
-const assembleSelectionName = (outcomeId: string | number, dictionaries: Dictionaries): string => {
+export type Params = {
+  withPoint?: boolean
+}
+
+const assembleSelectionName = (outcomeId: string | number, dictionaries: Dictionaries, params?: Params): string => {
   const { outcomes, selections, teamPlayers, points } = dictionaries
   const { marketId,  selectionId, teamPlayerId, pointsId } = outcomes[outcomeId]
 
@@ -19,7 +23,7 @@ const assembleSelectionName = (outcomeId: string | number, dictionaries: Diction
     selectionName = teamPlayer
   }
 
-  if (point) {
+  if (params?.withPoint && point !== undefined) {
     selectionName += ` (${point})`
   }
 

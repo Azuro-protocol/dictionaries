@@ -120,5 +120,6 @@ const outcomeId = 1
 const selectionName = getSelectionName(outcomeId, dictionaries) // "Yes"
 
 const outcomeId = 4
-const selectionName = getSelectionName(outcomeId, dictionaries) // "Team 2 (4.5)"
+const selectionName = getSelectionName(outcomeId, dictionaries) // "Team 2"
+const selectionName = getSelectionName(outcomeId, dictionaries, { withPoint: true }) // "Team 2 (4.5)"
 ```
