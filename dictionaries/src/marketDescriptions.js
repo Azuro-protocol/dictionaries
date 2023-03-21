@@ -10,6 +10,7 @@ module.exports = {
 
   // Match winner
   '19-1-69': 'Which team will win the match?',
+  '19-1-76': 'Which team will win the match?',
   '19-1-82': 'Which team will win the match?',
   '19-1-87': 'Which player will win the match?',  
   '19-30-1': 'Which team will win the match?',
@@ -25,6 +26,7 @@ module.exports = {
   '3-1-87': 'Will the number of sets adjusted for handicap played throughout the match exceed the stated number?',
   '3-76-1': 'Will Team 1 beat Team 2 in the number of goals adjusted for handicap for the whole match including OT?',
   '3-76-76': 'Will Team 1 beat Team 2 in the number of points adjusted for handicap for the whole match including OT?',
+  '3-76-83': 'Will Team 1 beat Team 2 in the number of runs adjusted for handicap for the whole game?',
 
   // Total
   '4-1-46': 'Will the overall number of corner kicks in a match exceed the predetermined amount?',
@@ -32,8 +34,10 @@ module.exports = {
   '4-1-60': 'Will the total kills by both teams be over or under the predicted score for all maps',
   '4-1-69': 'Will the total number of maps played be more or less than the forecasted score?',
   '4-1-76': 'Will the total points by both teams be over or under the predicted score for regular time?',
+  '4-1-87': 'Will the total number of sets played be more or less than the forecasted score?',
   '4-76-1': 'Will the total goals by both teams be over or under the predicted score for the whole match including OT?',
   '4-76-76': 'Will the total points by both teams be over or under the predicted score for the whole match including OT?',
+  '4-76-83': 'Will the total runs by both teams be over or under the predicted score for the whole game?',
 
   // Team 1
   '7-1-1-1': 'Will the total amount of goals scored within a game by Team 1 exceed the specified number at the end of regulation time?',
@@ -41,6 +45,7 @@ module.exports = {
   '7-1-60-1': 'Will the total kills by first team be over or under the predicted score for all maps?',
   '7-76-1-1': 'Will the total amount of goals scored within a game by Team 1 exceed the specified number for the whole match including OT?',
   '7-76-76-1': 'Will the total points by 1st Team be over or under the predicted score for the whole match including OT?',
+  '7-76-83-1': 'Will the total runs by 1st Team be over or under the predicted score for the whole game?',
 
   // Team 2
   '7-1-1-2': 'Will the total amount of goals scored within a game by Team 2 exceed the specified number at the end of regulation time?', 
@@ -48,6 +53,7 @@ module.exports = {
   '7-1-60-2': 'Will the total kills by second team be over or under the predicted score for all maps?',
   '7-76-1-2': 'Will the total amount of goals scored within a game by Team 2 exceed the specified number for the whole match including OT?',  
   '7-76-76-2': 'Will the total points by 2nd Team be over or under the predicted score for the whole match including OT?',
+  '7-76-83-2': 'Will the total runs by 2nd Team be over or under the predicted score for the whole game?',
 
   // 1st Half
   '1-50-1': 'Which team will win the 1st half of the match?',
