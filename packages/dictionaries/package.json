@@ -1,6 +1,6 @@
 {
   "name": "@azuro-org/dictionaries",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "CLI and set of helpers to work with Azuro protocol dictionaries",
   "bin": "bin.js",
   "module": "dist/index.es.js",

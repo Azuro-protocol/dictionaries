@@ -113,12 +113,12 @@ getMarketDescription(42, dictionaries) // undefined. Note that there is no `asse
 ### Get selection (outcome) name
 
 ```js
-import { assembleSelectionName } from '@azuro-org/dictionaries'
+import { getSelectionName } from '@azuro-org/dictionaries'
 import dictionaries from './dist'
 
 const outcomeId = 1
-const selectionName = assembleSelectionName(outcomeId, dictionaries) // "Yes"
+const selectionName = getSelectionName(outcomeId, dictionaries) // "Yes"
 
 const outcomeId = 4
-const selectionName = assembleSelectionName(outcomeId, dictionaries) // "Team 2 (4.5)"
+const selectionName = getSelectionName(outcomeId, dictionaries) // "Team 2 (4.5)"
 ```
