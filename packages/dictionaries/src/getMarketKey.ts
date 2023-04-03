@@ -2,8 +2,13 @@ import { MARKET_IDS___DONT_GROUP_MARKETS_BY_TEAM_PLAYER_ID } from './constants'
 import type { Dictionaries } from './types'
 
 
-const getMarketKey = (outcomeId: string | number, dictionaries: Dictionaries) => {
-  const { marketId, gamePeriodId, gameTypeId, teamPlayerId } = dictionaries.outcomes[outcomeId]
+type Props = {
+  outcomeId: string | number
+  dictionaries: Dictionaries
+}
+
+const getMarketKey = (props: Props): string => {
+  const { marketId, gamePeriodId, gameTypeId, teamPlayerId } = props.dictionaries.outcomes[props.outcomeId]
 
   // ATTN very important to not change the order of params in the literal!
   //  same logic used for static keys in helpers/conditions/marketRegistry.ts

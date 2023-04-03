@@ -1,7 +1,9 @@
 .idea
 .DS_Store
 
+.tmp/
 out/
+test-out/
 lib/
 dist/
 node_modules/

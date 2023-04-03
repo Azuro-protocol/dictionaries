@@ -1,10 +1,28 @@
 import getMarketKey from './getMarketKey'
-import type { Dictionaries } from './types'
+import type { OnlyOne, Dictionaries } from './types'
 
 
-const getMarketDescription = (outcomeId: string | number, dictionaries: Dictionaries): string => {
-  const { marketDescriptions } = dictionaries
-  const marketKey = getMarketKey(outcomeId, dictionaries)
+type Props = {
+  dictionaries: Dictionaries
+} & OnlyOne<{
+  marketKey: string
+  outcomeId: string | number
+}>
+
+const getMarketDescription = (props: Props): string => {
+  const { marketDescriptions } = props.dictionaries
+
+  let marketKey
+
+  if (props.outcomeId) {
+    marketKey = getMarketKey({
+      outcomeId: props.outcomeId,
+      dictionaries: props.dictionaries,
+    })
+  }
+  else {
+    marketKey = props.marketKey!
+  }
 
   return marketDescriptions[marketKey]
 }
