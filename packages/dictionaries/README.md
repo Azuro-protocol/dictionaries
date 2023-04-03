@@ -12,7 +12,9 @@ npm install @azuro-org/dictionaries
 ```
 
 
-## CLI `get-dictionaries`
+## CLI
+
+### CLI `get-dictionaries`
 
 All dictionaries are stored in a [public repository](https://github.com/Azuro-protocol/public-config/tree/main/dictionaries) 
 on GitHub. To download them use CLI.
@@ -30,7 +32,7 @@ Replace the following placeholders:
 - `{FILES_TYPE}`: the file format (`ts`, `js`, `maps` or `arrays`)
 
 
-## CLI `get-outcomes`
+### CLI `get-outcomes`
 
 If you need to get a list of `outcomeId`s related to a specific market name, you can use the `get-outcomes` command. 
 For example: 
@@ -77,8 +79,6 @@ useQuery(GAMES_QUERY, {
 
 ## Helpers
 
-### Usage
-
 To use the package in your project, you can import the desired helpers from the package:
 
 ```js
@@ -123,6 +123,11 @@ doesn't exist in the dictionaries, the helper function will return a concatenate
 
 In cases where there is no market name for the provided `outcomeId`, the helper function will return `undefined`. It's 
 important to keep this in mind when using these helper functions to avoid any unexpected behavior.
+
+```js
+getMarketName({ outcomeId: '42', dictionaries }) // "Whole game - Winner of match Goal"
+getMarketDescription({ outcomeId: '42', dictionaries }) // undefined
+```
 
 ### `getSelectionName`
 
