@@ -17,7 +17,7 @@ const convertOutcomes = (content) => {
 
   return `const data = {${data}};
 
-export default Object.keys(data).reduce((acc, key) => {
+module.exports = Object.keys(data).reduce((acc, key) => {
   const [ selectionId, marketId, gamePeriodId, gameTypeId, gameVarietyId, pointsId, teamPlayerId ] = data[key]
   
   acc[key] = {
@@ -36,7 +36,7 @@ export default Object.keys(data).reduce((acc, key) => {
 }
 
 const convertOthers = (content) => {
-  return `export default ${JSON.stringify(content, null, 2)}`
+  return `module.exports = ${JSON.stringify(content, null, 2)}`
 }
 
 module.exports = async (sources) => {
