@@ -1,6 +1,6 @@
 {
   "name": "@azuro-org/dictionaries",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "CLI and set of helpers to work with Azuro protocol dictionaries",
   "homepage": "https://github.com/Azuro-protocol/dictionaries/blob/main/packages/dictionaries",
   "author": "",
@@ -32,6 +32,9 @@
     "test-get-dictionaries": "rimraf ./test-out && node ./bin/get-dictionaries.js -v latest -o ./test-out -t arrays",
     "test-get-outcomes": "node ./bin/get-outcomes.js --market 'Full Time Result'"
   },
+  "dependencies": {
+    "minimist": "^1.2.7"
+  },
   "devDependencies": {
     "@babel/core": "^7.17.0",
     "@rollup/plugin-babel": "^6.0.3",
@@ -39,7 +42,6 @@
     "@rollup/plugin-json": "^4.1.0",
     "@types/node": "^17.0.21",
     "builtin-modules": "^3.3.0",
-    "minimist": "^1.2.7",
     "rimraf": "^3.0.2",
     "rollup": "^2.67.0",
     "rollup-plugin-babel": "^4.4.0",
