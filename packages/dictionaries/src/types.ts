@@ -9,9 +9,9 @@ type Outcomes = Record<string, {
   gamePeriodId: number
   gameTypeId: number
   gameVarietyId: number
-  pointsId: number
+  pointsId: number | null
   selectionId: number
-  teamPlayerId: number
+  teamPlayerId: number | null
 }>
 
 export type Dictionaries = {

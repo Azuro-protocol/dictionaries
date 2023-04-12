@@ -13,8 +13,8 @@ const getSelectionName = (props: Props): string => {
   const { marketId,  selectionId, teamPlayerId, pointsId } = outcomes[props.outcomeId]
 
   const selection = selections[selectionId]
-  const teamPlayer = teamPlayers[teamPlayerId]
-  const point = points[pointsId]
+  const teamPlayer = teamPlayerId ? teamPlayers[teamPlayerId] : null
+  const point = pointsId ? points[pointsId] : null
 
   let selectionName = selection
 
