@@ -1,6 +1,6 @@
 {
   "name": "@azuro-org/dictionaries",
-  "version": "2.0.4",
+  "version": "3.0.0",
   "description": "CLI and set of helpers to work with Azuro protocol dictionaries",
   "homepage": "https://github.com/Azuro-protocol/dictionaries/blob/main/packages/dictionaries",
   "author": "",
@@ -22,15 +22,14 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "bin": {
-    "get-dictionaries": "bin/get-dictionaries.js",
     "get-outcomes": "bin/get-outcomes.js"
   },
   "scripts": {
     "dev": "rollup -cw",
+    "test": "node test.js",
     "build": "rimraf ./dist && rimraf ./lib && rollup -c --compact",
-    "prepublishOnly": "npm run build",
-    "test-get-dictionaries": "rimraf ./test-out && node ./bin/get-dictionaries.js -v latest -o ./test-out -t ts",
-    "test-get-outcomes": "node ./bin/get-outcomes.js --market 'Full Time Result'"
+    "prepublishOnly": "npm run build && npm run test",
+    "test-get-outcomes": "node ./bin/get-outcomes --market 'Full Time Result'"
   },
   "dependencies": {
     "minimist": "^1.2.7"
@@ -42,6 +41,7 @@
     "@rollup/plugin-json": "^4.1.0",
     "@types/node": "^17.0.21",
     "builtin-modules": "^3.3.0",
+    "fast-glob": "^3.2.12",
     "rimraf": "^3.0.2",
     "rollup": "^2.67.0",
     "rollup-plugin-babel": "^4.4.0",

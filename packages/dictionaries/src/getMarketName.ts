@@ -1,24 +1,20 @@
+import dictionaries from './dictionaries'
 import getMarketKey from './getMarketKey'
-import type { OnlyOne, Dictionaries } from './types'
+import type { OneOf } from './types'
 
 
-type Props = {
-  dictionaries: Dictionaries
-} & OnlyOne<{
+type Props = OneOf<{
   marketKey: string
   outcomeId: string | number
 }>
 
 const getMarketName = (props: Props): string => {
-  const { marketNames, markets, gamePeriods, gameTypes, teamPlayers } = props.dictionaries
+  const { marketNames, markets, gamePeriods, gameTypes, teamPlayers } = dictionaries
 
   let marketKey
 
   if (props.outcomeId) {
-    marketKey = getMarketKey({
-      outcomeId: props.outcomeId,
-      dictionaries: props.dictionaries,
-    })
+    marketKey = getMarketKey(props.outcomeId)
   }
   else {
     marketKey = props.marketKey!

@@ -1,8 +1,9 @@
-const { OUTPUT_TS_DIR } = require('../constants')
-const writeFile = require('../writeFile')
+const fs = require('fs')
+const path = require('path')
+const { OUT_DIR } = require('./constants')
 
 
-const convertOutcomes = (content) => {
+function convertOutcomes(content) {
   let data = ''
 
   Object.keys(content).map((key) => {
@@ -19,7 +20,7 @@ const convertOutcomes = (content) => {
 
 const data: Data = {${data}};
   
-export type Outcomes = Record<string, {
+type Outcomes = Record<string, {
   selectionId: number
   marketId: number
   gamePeriodId: number
@@ -29,29 +30,33 @@ export type Outcomes = Record<string, {
   teamPlayerId: number | null
 }>
 
-export default Object.keys(data).reduce((acc, key) => {
-  const [ selectionId, marketId, gamePeriodId, gameTypeId, gameVarietyId, pointsId, teamPlayerId ] = data[key]
-  
-  acc[key] = {
-    selectionId,
-    marketId,
-    gamePeriodId,
-    gameTypeId,
-    gameVarietyId,
-    pointsId,
-    teamPlayerId,
+export default new Proxy<Data>(data, {
+  get(target, prop: string) {
+    if (!target[prop]) {
+      return undefined
+    }
+
+    const [ selectionId, marketId, gamePeriodId, gameTypeId, gameVarietyId, pointsId, teamPlayerId ] = target[prop]
+
+    return {
+      selectionId,
+      marketId,
+      gamePeriodId,
+      gameTypeId,
+      gameVarietyId,
+      pointsId: pointsId || null,
+      teamPlayerId: teamPlayerId || null
+    }
   }
-  
-  return acc
-}, {} as Outcomes)
+}) as unknown as Outcomes
 `
 }
 
-const convertOthers = (content) => {
+function convertOthers(content) {
   return `export default ${JSON.stringify(content, null, 2)} as Record<string, string>`
 }
 
-module.exports = async (sources) => {
+module.exports = async function transform(sources) {
   for (let filename in sources) {
     let content = sources[filename]
 
@@ -62,6 +67,6 @@ module.exports = async (sources) => {
       content = convertOthers(content)
     }
 
-    await writeFile(OUTPUT_TS_DIR, filename, 'ts', content)
+    await fs.promises.writeFile(path.resolve(OUT_DIR, `${filename}.ts`), content)
   }
 }

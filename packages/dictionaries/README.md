@@ -1,7 +1,7 @@
 # Dictionaries Package
 
 The Azuro Dictionaries package is designed to provide easy access to the Azuro Protocol dictionaries, which contain 
-mappings between IDs and human-readable strings. The package includes several CLI and helpers to make it easy to work with 
+mappings between IDs and human-readable strings. The package includes CLI and helpers to make it easy to work with 
 these dictionaries in your project.
 
 
@@ -12,30 +12,100 @@ npm install @azuro-org/dictionaries
 ```
 
 
-## CLI
+## Helpers
 
-### CLI `get-dictionaries`
+To use the package in your project, you can import the desired helpers from the package:
 
-All dictionaries are stored in a [public repository](https://github.com/Azuro-protocol/public-config/tree/main/dictionaries) 
-on GitHub. To download them use CLI.
-
-In your `package.json` file, add the following script:
-
-```json
-"get-dictionaries": "get-dictionaries -o {OUTPUT_DIR} -v {VERSION} -t {FILES_TYPE}"
+```js
+import { getMarketKey, getMarketName, getMarketDescription, getSelectionName } from '@azuro-org/dictionaries'
 ```
 
-Replace the following placeholders:
+The package provides the following helpers:
 
-- `{OUTPUT_DIR}`: the directory where to store the downloaded files.
-- `{VERSION}`: the version of the dictionaries to download (use `latest` for the latest version).
-- `{FILES_TYPE}`: the file format (`ts`, `js`, `maps` or `arrays`)
+### `getMarketKey`
 
+Returns a market key - a combination of IDs including the `marketId`, `gamePeriodId`, `gameTypeId`, and `teamPlayerId` 
+(if applicable). This key is required to get markets name and description from dictionaries.
+
+```ts
+getMarketKey(outcomeId: string | number): string
+```
+
+```js
+const outcomeId = 1
+
+getMarketKey(outcomeId) // "1-1-1"
+```
+
+### `getMarketName`
+
+Returns the human-readable name of the market related to an `outcomeId` or a `marketKey`.
+
+```ts
+getMarketName(props: OneOf<{ marketKey: string, outcomeId: string | number }>): string
+```
+
+```js
+getMarketName({ outcomeId: 1 }) // "Full Time Result"
+getMarketName({ marketKey: '1-1-1' }) // "Full Time Result"
+```
+
+### `getMarketDescription`
+
+Returns the human-readable description of the market related to an `outcomeId` or a `marketKey`.
+
+```ts
+getMarketDescription(props: OneOf<{ marketKey: string, outcomeId: string | number }>): string
+```
+
+```js
+getMarketDescription({ outcomeId: 1 }) // "You predict the result..."
+getMarketDescription({ marketKey: '1-1-1' }) // "You predict the result..."
+```
+
+It's important to note that not all `outcomeId` values have a corresponding market name or description. If the name 
+doesn't exist in the dictionaries, the helper function will return a concatenated string of values taken from the 
+`marketId`, `gamePeriodId`, `gameTypeId`, and `teamPlayerId` IDs.
+
+In cases where there is no market name for the provided `outcomeId`, the helper function will return `undefined`. It's 
+important to keep this in mind when using these helper functions to avoid any unexpected behavior.
+
+```js
+getMarketName({ outcomeId: 42 }) // "Whole game - Winner of match Goal"
+getMarketDescription({ outcomeId: 42 }) // undefined
+```
+
+### `getSelectionName`
+
+Returns the human-readable name of the selection related to an `outcomeId`.
+
+```ts
+getSelectionName(props: OneOf<{ outcomeId: string | number, withPoint?: boolean }>): string
+```
+
+```js
+getSelectionName({ outcomeId: 1 }) // "Yes"
+getSelectionName({ outcomeId: 4 }) // "Team 2"
+getSelectionName({ outcomeId: 4, withPoint: true }) // "Team 2 (4.5)"
+```
+
+### Example Usage
+
+```js
+import { getMarketName, getMarketDescription, getSelectionName } from '@azuro-org/dictionaries'
+
+const marketName = getMarketName({ outcomeId: 123 })
+const marketDescription = getMarketDescription({ outcomeId: 123 })
+const selectionName = getSelectionName({ outcomeId: 123 })
+```
+
+
+## CLI
 
 ### CLI `get-outcomes`
 
-If you need to get a list of `outcomeId`s related to a specific market name, you can use the `get-outcomes` command. 
-For example: 
+If you need to get a list of `outcomeId`s related to a specific market name, you can use the `get-outcomes` command.
+For example:
 
 ```
 get-outcomes --market 'Full Time Result'
@@ -74,80 +144,4 @@ useQuery(GAMES_QUERY, {
     }
   }
 })
-```
-
-
-## Helpers
-
-To use the package in your project, you can import the desired helpers from the package:
-
-```js
-import { getMarketKey, getMarketName, getMarketDescription, getSelectionName } from '@azuro-org/dictionaries'
-```
-
-The package provides the following helpers:
-
-### `getMarketKey`
-
-This function generates a string `marketKey` from an `outcomeId`. A `marketKey` is a combination of other IDs, including 
-the `marketId`, `gamePeriodId`, `gameTypeId`, and `teamPlayerId` (if applicable). This function takes an object with 
-the `outcomeId` and `dictionaries` as properties.
-
-```js
-getMarketKey({ outcomeId: '1', dictionaries }) // "1-1-1"
-```
-
-### `getMarketName`
-
-This function returns the human-readable name of the market related to an `outcomeId` or a `marketKey`. This function takes 
-an object with either the `outcomeId` or `marketKey` and `dictionaries` as properties.
-
-```js
-getMarketName({ outcomeId: '1', dictionaries }) // "Full Time Result"
-getMarketName({ marketKey: '1-1-1', dictionaries }) // "Full Time Result"
-```
-
-### `getMarketDescription`
-
-This function returns the human-readable description of the market related to an `outcomeId` or a `marketKey`. This 
-function takes an object with either the `outcomeId` or `marketKey` and `dictionaries` as properties.
-
-```js
-getMarketDescription({ outcomeId: '1', dictionaries }) // "You predict the result..."
-getMarketDescription({ marketKey: '1-1-1', dictionaries }) // "You predict the result..."
-```
-
-It's important to note that not all `outcomeId` values have a corresponding market name or description. If the name 
-doesn't exist in the dictionaries, the helper function will return a concatenated string of values taken from the 
-`marketId`, `gamePeriodId`, `gameTypeId`, and `teamPlayerId` IDs.
-
-In cases where there is no market name for the provided `outcomeId`, the helper function will return `undefined`. It's 
-important to keep this in mind when using these helper functions to avoid any unexpected behavior.
-
-```js
-getMarketName({ outcomeId: '42', dictionaries }) // "Whole game - Winner of match Goal"
-getMarketDescription({ outcomeId: '42', dictionaries }) // undefined
-```
-
-### `getSelectionName`
-
-This function returns the human-readable name of the selection related to an `outcomeId`. This function takes an object 
-with the `outcomeId`, `dictionaries` and `withPoint` (if applicable) as properties.
-
-```js
-getSelectionName({ outcomeId: '1', dictionaries }) // "Yes"
-getSelectionName({ outcomeId: '4', dictionaries }) // "Team 2"
-getSelectionName({ outcomeId: '4', dictionaries, withPoint: true }) // "Team 2 (4.5)"
-```
-
-
-### Example
-
-```js
-import { getMarketName, getSelectionName } from '@azuro-org/dictionaries'
-import dictionaries from './path/to/dictionaries'
-
-const marketKey = getMarketKey({ outcomeId: '123', dictionaries })
-const marketName = getMarketName({ marketKey, dictionaries })
-const selectionName = getSelectionName({ outcomeId: '123', dictionaries })
 ```

@@ -1,15 +1,14 @@
+import dictionaries from './dictionaries'
 import { MARKET_IDS___USE_TEAM_PLAYER_INSTEAD_OUTCOME } from './constants'
-import type { Dictionaries } from './types'
 
 
 type Props = {
   outcomeId: string | number
-  dictionaries: Dictionaries
   withPoint?: boolean
 }
 
 const getSelectionName = (props: Props): string => {
-  const { outcomes, selections, teamPlayers, points } = props.dictionaries
+  const { outcomes, selections, teamPlayers, points } = dictionaries
   const { marketId,  selectionId, teamPlayerId, pointsId } = outcomes[props.outcomeId]
 
   const selection = selections[selectionId]

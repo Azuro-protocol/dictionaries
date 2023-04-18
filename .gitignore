@@ -1,11 +1,4 @@
 .idea
 .DS_Store
 
-.tmp/
-out/
-test-out/
-lib/
-dist/
 node_modules/
-
-dictionaries/out/**/README.md
