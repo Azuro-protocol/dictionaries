@@ -24,7 +24,7 @@ const getSelectionName = (props: Props): string => {
     selectionName = teamPlayer
   }
 
-  if (props?.withPoint && point !== undefined) {
+  if (props?.withPoint && point !== null && point !== undefined) {
     selectionName += ` (${point})`
   }
 
