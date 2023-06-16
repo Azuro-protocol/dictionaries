@@ -1,6 +1,6 @@
 {
   "name": "@azuro-org/dictionaries",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "CLI and set of helpers to work with Azuro protocol dictionaries",
   "homepage": "https://github.com/Azuro-protocol/dictionaries/blob/main/packages/dictionaries",
   "author": "",
@@ -22,12 +22,13 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "bin": {
-    "get-outcomes": "bin/get-outcomes.js"
+    "get-outcomes": "bin/get-outcomes/index.js"
   },
   "scripts": {
     "dev": "rollup -cw",
     "test": "node test.js",
-    "build": "rimraf ./dist && rimraf ./lib && rollup -c --compact",
+    "cleanup": "rimraf ./dist & rimraf ./lib & rimraf ./src/dictionaries",
+    "build": "npm run cleanup && node bin/get-dictionaries && rollup -c --compact",
     "prepublishOnly": "npm run build && npm run test",
     "test-get-outcomes": "node ./bin/get-outcomes --market 'Full Time Result'"
   },
