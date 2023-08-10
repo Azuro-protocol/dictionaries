@@ -1,13 +1,5 @@
-import dictionaries from './dictionaries'
-import getMarketKey from './getMarketKey'
-import getMarketName from './getMarketName'
-import getMarketDescription from './getMarketDescription'
-import getSelectionName from './getSelectionName'
-
-export {
-  dictionaries,
-  getMarketKey,
-  getMarketName,
-  getMarketDescription,
-  getSelectionName,
-}
+export { default as dictionaries } from './dictionaries'
+export { default as getMarketKey } from './getMarketKey'
+export { default as getMarketName } from './getMarketName'
+export { default as getMarketDescription } from './getMarketDescription'
+export { default as getSelectionName } from './getSelectionName'
