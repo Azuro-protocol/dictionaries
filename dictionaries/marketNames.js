@@ -12,6 +12,7 @@ module.exports = {
   '19-1-69': 'Match Winner',
   '19-1-76': 'Match Winner',
   '19-1-82': 'Match Winner',
+  '19-1-83': 'Winner',
   '19-1-87': 'Match Winner',
   '19-30-1': 'Match Winner',
   '19-75-51': 'Fight Winner',
@@ -128,7 +129,7 @@ module.exports = {
 
   // Map 5
   '19-326-69': 'Map 5 - Winner',
-  
+
   // Other
   '3-1-60': 'Match - Kill Handicap',
   '16-1-69-1': 'Will Team 1 Win At Least One Map?',

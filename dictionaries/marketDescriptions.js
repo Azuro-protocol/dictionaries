@@ -12,15 +12,16 @@ module.exports = {
   '19-1-69': 'Which team will win the match?',
   '19-1-76': 'Which team will win the match?',
   '19-1-82': 'Which team will win the match?',
-  '19-1-87': 'Which player will win the match?',  
+  '19-1-83': 'Which team will win the match?',
+  '19-1-87': 'Which player will win the match?',
   '19-30-1': 'Which team will win the match?',
-  '19-75-51': 'Which fighter will win? In the event of a draw, you will receive a refund.', 
+  '19-75-51': 'Which fighter will win? In the event of a draw, you will receive a refund.',
   '19-76-1': 'Which team will win the match including extra time and shootout?',
   '19-76-83': 'Which team will win the match?',
 
   // Handicap
-  '3-1-46': 'Will a certain team shoot more corner kicks adjusted for a handicap than the opponent in a match?', 
-  '3-1-54': 'Will the number of games adjusted for handicap played throughout the match exceed the stated number?', 
+  '3-1-46': 'Will a certain team shoot more corner kicks adjusted for a handicap than the opponent in a match?',
+  '3-1-54': 'Will the number of games adjusted for handicap played throughout the match exceed the stated number?',
   '3-1-69': 'Will Team 1 beat Team 2 in the number of maps adjusted for handicap?',
   '3-1-76': 'Will Team 1 beat Team 2 in the number of points adjusted for handicap?',
   '3-1-87': 'Will the number of sets adjusted for handicap played throughout the match exceed the stated number?',
@@ -30,7 +31,7 @@ module.exports = {
 
   // Total
   '4-1-46': 'Will the overall number of corner kicks in a match exceed the predetermined amount?',
-  '4-1-54': 'How many games will it take to complete the match?',    
+  '4-1-54': 'How many games will it take to complete the match?',
   '4-1-60': 'Will the total kills by both teams be over or under the predicted score for all maps',
   '4-1-69': 'Will the total number of maps played be more or less than the forecasted score?',
   '4-1-76': 'Will the total points by both teams be over or under the predicted score for regular time?',
@@ -48,10 +49,10 @@ module.exports = {
   '7-76-83-1': 'Will the total runs by 1st Team be over or under the predicted score for the whole game?',
 
   // Team 2
-  '7-1-1-2': 'Will the total amount of goals scored within a game by Team 2 exceed the specified number at the end of regulation time?', 
-  '7-1-54-2': 'How many games will Player 2 win?',  
+  '7-1-1-2': 'Will the total amount of goals scored within a game by Team 2 exceed the specified number at the end of regulation time?',
+  '7-1-54-2': 'How many games will Player 2 win?',
   '7-1-60-2': 'Will the total kills by second team be over or under the predicted score for all maps?',
-  '7-76-1-2': 'Will the total amount of goals scored within a game by Team 2 exceed the specified number for the whole match including OT?',  
+  '7-76-1-2': 'Will the total amount of goals scored within a game by Team 2 exceed the specified number for the whole match including OT?',
   '7-76-76-2': 'Will the total points by 2nd Team be over or under the predicted score for the whole match including OT?',
   '7-76-83-2': 'Will the total runs by 2nd Team be over or under the predicted score for the whole game?',
 
@@ -62,12 +63,12 @@ module.exports = {
   '4-50-76': 'Will the total points by both teams be over or under the predicted score for 1st Half?',
   '4-50-46': 'Will the overall number of corner kicks exceed the predetermined amount in the first half of the match?',
   '7-50-1-1': 'Will the total number of goals scored by Team 1 only in the first half of the match be more or less than the forecasted score?',
-  '7-50-1-2': 'Will the total number of goals scored by Team 2 only in the first half of the match be more or less than the forecasted score?', 
+  '7-50-1-2': 'Will the total number of goals scored by Team 2 only in the first half of the match be more or less than the forecasted score?',
   '7-50-76-1': 'Will the total number of points scored by Team 1 only in the first half of the match be more or less than the forecasted score?',
-  '7-50-76-2': 'Will the total number of points scored by Team 2 only in the first half of the match be more or less than the forecasted score?', 
+  '7-50-76-2': 'Will the total number of points scored by Team 2 only in the first half of the match be more or less than the forecasted score?',
   '9-50-1': 'Will both teams score at least one goal in the first half of the game?',
   '11-50-1': 'Will any of the teams score at least one goal in the first half of the match?',
-  '19-50-76': 'During 1st Half, which team will win? In case of draw you will receive the refund.', 
+  '19-50-76': 'During 1st Half, which team will win? In case of draw you will receive the refund.',
 
   // Map 1
   '3-78-60': 'Will the number of kills that have been adjusted for the handicap be higher than the opposing team\'s on this map?',
