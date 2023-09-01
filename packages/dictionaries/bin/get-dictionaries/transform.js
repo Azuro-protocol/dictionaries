@@ -52,6 +52,10 @@ export default new Proxy<Data>(data, {
 `
 }
 
+function convertMarketOrders(content) {
+  return `export default ${JSON.stringify(content, null, 2)} as Record<string, string[]>`
+}
+
 function convertOthers(content) {
   return `export default ${JSON.stringify(content, null, 2)} as Record<string, string>`
 }
@@ -62,6 +66,9 @@ module.exports = async function transform(sources) {
 
     if (filename === 'outcomes') {
       content = convertOutcomes(content)
+    }
+    else if (filename === 'marketOrders') {
+      content = convertMarketOrders(content)
     }
     else {
       content = convertOthers(content)
