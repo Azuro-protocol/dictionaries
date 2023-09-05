@@ -12,7 +12,7 @@ module.exports = {
   '19-1-69': 'Match Winner',
   '19-1-76': 'Match Winner',
   '19-1-82': 'Match Winner',
-  '19-1-83': 'Winner',
+  '19-1-83': 'Match Winner',
   '19-1-87': 'Match Winner',
   '19-30-1': 'Match Winner',
   '19-75-51': 'Fight Winner',
