@@ -68,7 +68,7 @@ module.exports = {
   '7-50-76-2': '1st Half - Team 2 - Total Points',
   '9-50-1': '1st Half - Both Teams To Score',
   '11-50-1': '1st Half - Either Team To Score',
-  '19-50-76': '1st Half - Full Time Result',
+  '19-50-76': '1st Half - Winner',
 
   // Map 1
   '3-78-60': 'Map 1 - Kill Handicap',
@@ -135,7 +135,7 @@ module.exports = {
   '16-1-69-1': 'Will Team 1 Win At Least One Map?',
   '16-1-69-2': 'Will Team 2 Win At Least One Map?',
   '19-54-54': 'Winner of the 1st set',
-  '19-76-76': 'Full Time Result',
+  '19-76-76': 'Match Winner',
   '19-755-1': 'To Qualify',
   '19-756-1': 'To Win Competition',
   '19-757-1': 'To Take 3rd Place',

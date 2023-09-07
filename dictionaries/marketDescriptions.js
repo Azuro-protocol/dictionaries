@@ -68,7 +68,7 @@ module.exports = {
   '7-50-76-2': 'Will the total number of points scored by Team 2 only in the first half of the match be more or less than the forecasted score?',
   '9-50-1': 'Will both teams score at least one goal in the first half of the game?',
   '11-50-1': 'Will any of the teams score at least one goal in the first half of the match?',
-  '19-50-76': 'During 1st Half, which team will win? In case of draw you will receive the refund.',
+  '19-50-76': 'During 1st Half, which team will win?',
 
   // Map 1
   '3-78-60': 'Will the number of kills that have been adjusted for the handicap be higher than the opposing team\'s on this map?',
@@ -134,7 +134,7 @@ module.exports = {
   '16-1-69-1': 'Will Team 1 win at least in one map? If you bet on Yes you will win if Team 1 will win in 1 or more maps during the match.',
   '16-1-69-2': 'Will Team 2 win at least in one map? If you bet on Yes you will win if Team 2 will win in 1 or more maps during the match.',
   '19-54-54': 'Which player will win the first set?',
-  '19-76-76': 'Here you predict the final result of the game, which team will win or in case of draw you will receive the refund',
+  '19-76-76': 'Which team will win the match?',
   '19-755-1': 'Choose which team will qualify for the next game in the tournament',
   '19-756-1': 'Choose which team will win the tournament',
   '19-757-1': 'Choose which team will take the 3rd Place',
