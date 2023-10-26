@@ -7,6 +7,14 @@ module.exports = {
   '3-1-1': 'Will Team 1 beat Team 2 in the number of goals adjusted for handicap for regular time?',
   '4-1-1': 'Will the total goals by both teams be over or under the predicted score for regular time?',
   '9-1-1': 'A market where you predict whether or not both teams will score at least one goal in the game. You can bet on «yes» if you think that both teams will score or «no» if you think that one of the teams will not score.',
+  '19-1-1': 'You have to predict who will win in the match, in case of draw you will get the refund',
+
+  '9-76-83': 'Who will score the first run in the match?',
+  '25-1-1': 'You have to predict who will score first goal of the match?',
+  '26-1-70': 'You have to predict who will win in the match and will both teams to score?',
+  '27-1-70': 'You have to predict whether or not both teams will score at least one goal in the game and will the total goals by both teams be over or under the predicted score for regular time?',
+  '18-1-1': 'Will Team 1 beat Team 2 in the number of goals adjusted for handicap?',
+  '28-1-70': 'You have to predict the result of a match at the end of regular play and will the total goals by both teams be over or under the predicted score for regular time?',
 
   // Match winner
   '19-1-69': 'Which team will win the match?',
@@ -18,6 +26,8 @@ module.exports = {
   '19-75-51': 'Which fighter will win? In the event of a draw, you will receive a refund.',
   '19-76-1': 'Which team will win the match including extra time and shootout?',
   '19-76-83': 'Which team will win the match?',
+
+  '29-76-70': 'You have to predict who will win in the match and will the total count of runs be more or less than the forecasted score?',
 
   // Handicap
   '3-1-46': 'Will a certain team shoot more corner kicks adjusted for a handicap than the opponent in a match?',
@@ -39,6 +49,7 @@ module.exports = {
   '4-76-1': 'Will the total goals by both teams be over or under the predicted score for the whole match including OT?',
   '4-76-76': 'Will the total points by both teams be over or under the predicted score for the whole match including OT?',
   '4-76-83': 'Will the total runs by both teams be over or under the predicted score for the whole game?',
+  '4-76-102': 'Will the total number of hits plus runs plus errors only in the the match be more or less than the forecasted score?',
 
   // Team 1
   '7-1-1-1': 'Will the total amount of goals scored within a game by Team 1 exceed the specified number at the end of regulation time?',
@@ -47,6 +58,7 @@ module.exports = {
   '7-76-1-1': 'Will the total amount of goals scored within a game by Team 1 exceed the specified number for the whole match including OT?',
   '7-76-76-1': 'Will the total points by 1st Team be over or under the predicted score for the whole match including OT?',
   '7-76-83-1': 'Will the total runs by 1st Team be over or under the predicted score for the whole game?',
+  '16-1-1-1': 'Will team 1 to score at least one goal in the game?',
 
   // Team 2
   '7-1-1-2': 'Will the total amount of goals scored within a game by Team 2 exceed the specified number at the end of regulation time?',
@@ -55,20 +67,33 @@ module.exports = {
   '7-76-1-2': 'Will the total amount of goals scored within a game by Team 2 exceed the specified number for the whole match including OT?',
   '7-76-76-2': 'Will the total points by 2nd Team be over or under the predicted score for the whole match including OT?',
   '7-76-83-2': 'Will the total runs by 2nd Team be over or under the predicted score for the whole game?',
+  '16-1-1-2': 'Will team 2 to score at least one goal in the game?',
 
   // 1st Half
   '1-50-1': 'Which team will win the 1st half of the match?',
   '2-50-1': 'Which team will win the 1st half of the match or will there be a draw?',
   '3-50-76': 'Will Team 1 beat Team 2 in the number of points adjusted for handicap in the first half of the game?',
-  '4-50-76': 'Will the total points by both teams be over or under the predicted score for 1st Half?',
+  '3-50-83': 'Will the number of runs that have been adjusted for the handicap be higher than the opposing team\'s in the 1st Half?',
+  '4-50-76': 'Will the total points only in the first half of the match be more or less than the forecasted score?',
   '4-50-46': 'Will the overall number of corner kicks exceed the predetermined amount in the first half of the match?',
+  '4-50-83': 'Will the total number of runs only in the first half of the match be more or less than the forecasted score?',
   '7-50-1-1': 'Will the total number of goals scored by Team 1 only in the first half of the match be more or less than the forecasted score?',
   '7-50-1-2': 'Will the total number of goals scored by Team 2 only in the first half of the match be more or less than the forecasted score?',
   '7-50-76-1': 'Will the total number of points scored by Team 1 only in the first half of the match be more or less than the forecasted score?',
   '7-50-76-2': 'Will the total number of points scored by Team 2 only in the first half of the match be more or less than the forecasted score?',
+  '7-50-83-1': 'Will the total number of runs scored by Team 1 only in the first half of the match be more or less than the forecasted score?',
+  '7-50-83-2': 'Will the total number of runs scored by Team 2 only in the first half of the match be more or less than the forecasted score?',
+  '16-50-1-1': 'Will team 1 to score at least one goal in the 1st half of the game?',
+  '16-50-1-2': 'Will team 2 to score at least one goal in the 1st half of the game?',
   '9-50-1': 'Will both teams score at least one goal in the first half of the game?',
   '11-50-1': 'Will any of the teams score at least one goal in the first half of the match?',
   '19-50-76': 'During 1st Half, which team will win?',
+
+  '1-51-83': 'Which team will win the 1st Inning?',
+  '3-51-83': 'Will the number of runs that have been adjusted for the handicap be higher than the opposing team\'s in the 1st Inning?',
+  '4-51-83': 'Will the total number of runs only in the first Inning of the match be more or less than the forecasted score?',
+  '19-53-76': 'During 1st Quarter, which team will win?',
+  '4-53-76': 'Will the total points only in the first quarter of the match be more or less than the forecasted score?',
 
   // Map 1
   '3-78-60': 'Will the number of kills that have been adjusted for the handicap be higher than the opposing team\'s on this map?',

@@ -7,6 +7,14 @@ module.exports = {
   '3-1-1': 'Handicap',
   '4-1-1': 'Total Goals',
   '9-1-1': 'Both Teams To Score',
+  '19-1-1': 'Draw no bet',
+
+  '9-76-83': 'Who first',
+  '25-1-1': 'Who first (3 way)',
+  '26-1-70': 'Both Teams To Score & Full Time Result',
+  '27-1-70': 'Both Teams To Score & Total',
+  '18-1-1': 'European Handicap (3 way)',
+  '28-1-70': 'Full Time Result & Total',
 
   // Match winner
   '19-1-69': 'Match Winner',
@@ -18,6 +26,8 @@ module.exports = {
   '19-75-51': 'Fight Winner',
   '19-76-1': 'Match Winner',
   '19-76-83': 'Match Winner',
+
+  '29-76-70': 'Winner of match & Total',
 
   // Handicap
   '3-1-46': 'Handicap Corners',
@@ -39,6 +49,7 @@ module.exports = {
   '4-76-1': 'Total Goals incl. OT',
   '4-76-76': 'Total Points incl. OT',
   '4-76-83': 'Total Runs',
+  '4-76-102': 'Total (Hits + Runs + Errors)',
 
   // Team 1
   '7-1-1-1': 'Team 1 - Total Goals',
@@ -47,6 +58,7 @@ module.exports = {
   '7-76-1-1': 'Team 1 - Total Goals incl. OT',
   '7-76-76-1': 'Team 1 - Total Points incl. OT',
   '7-76-83-1': 'Team 1 - Total Runs',
+  '16-1-1-1': 'Team 1 - To score',
 
   // Team 2
   '7-1-1-2': 'Team 2 - Total Goals',
@@ -55,20 +67,33 @@ module.exports = {
   '7-76-1-2': 'Team 2 - Total Goals incl. OT',
   '7-76-76-2': 'Team 2 - Total Points incl. OT',
   '7-76-83-2': 'Team 2 - Total Runs',
+  '16-1-1-2': 'Team 2 - To score',
 
   // 1st Half
   '1-50-1': '1st Half - Winner',
   '2-50-1': '1st Half - Double Chance',
   '3-50-76': '1st Half - Handicap',
+  '3-50-83': '1st Half - Handicap',
   '4-50-76': '1st Half - Total Points',
   '4-50-46': '1st Half - Total Corners',
+  '4-50-83': '1st Half - Total Runs',
   '7-50-1-1': '1st Half - Team 1 - Total Goals',
   '7-50-1-2': '1st Half - Team 2 - Total Goals',
   '7-50-76-1': '1st Half - Team 1 - Total Points',
   '7-50-76-2': '1st Half - Team 2 - Total Points',
+  '7-50-83-1': '1st Half - Team 1 - Total Runs',
+  '7-50-83-2': '1st Half - Team 2 - Total Runs',
+  '16-50-1-1': '1st Half - Team 1 - To score',
+  '16-50-1-2': '1st Half - Team 2 - To score',
   '9-50-1': '1st Half - Both Teams To Score',
   '11-50-1': '1st Half - Either Team To Score',
   '19-50-76': '1st Half - Winner',
+
+  '1-51-83': '1st Inning - Full Time Result',
+  '3-51-83': '1st Inning - Handicap',
+  '4-51-83': '1st Inning - Total Runs',
+  '19-53-76': '1st Quarter - Winner',
+  '4-53-76': '1st Quarter - Total',
 
   // Map 1
   '3-78-60': 'Map 1 - Kill Handicap',
