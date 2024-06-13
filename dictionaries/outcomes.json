@@ -158028,5 +158028,3465 @@
     "pointsId": 43,
     "teamPlayerId": 2,
     "_comment": "3rd Quarter Handicap Point Team 2 H2 -26"
+  },
+  "15804": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 62,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 -5"
+  },
+  "15805": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 320,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 5"
+  },
+  "15806": {
+    "selectionId": 44,
+    "marketId": 25,
+    "gamePeriodId": 50,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "1st Half Who First (3 way) Goal 1"
+  },
+  "15807": {
+    "selectionId": 45,
+    "marketId": 25,
+    "gamePeriodId": 50,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "1st Half Who First (3 way) Goal 2"
+  },
+  "15808": {
+    "selectionId": 46,
+    "marketId": 25,
+    "gamePeriodId": 50,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "1st Half Who First (3 way) Goal Neither"
+  },
+  "15809": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "Game Individual Total Run Team 1 Over 0.5"
+  },
+  "15810": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "Game Individual Total Run Team 1 Under 0.5"
+  },
+  "15811": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 73,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "8th Inning Individual Total Run Team 2 Over 0.5"
+  },
+  "15812": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 73,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "8th Inning Individual Total Run Team 2 Under 0.5"
+  },
+  "15813": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 73,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "8th Inning Handicap Run Team 1 H1 0.5"
+  },
+  "15814": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 73,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 3,
+    "teamPlayerId": 2,
+    "_comment": "8th Inning Handicap Run Team 2 H2 -0.5"
+  },
+  "15815": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 73,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 3,
+    "teamPlayerId": 1,
+    "_comment": "8th Inning Handicap Run Team 1 H1 -0.5"
+  },
+  "15816": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 73,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "8th Inning Handicap Run Team 2 H2 0.5"
+  },
+  "15817": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 73,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": null,
+    "_comment": "8th Inning Total Run Over 0.5"
+  },
+  "15818": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 73,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": null,
+    "_comment": "8th Inning Total Run Under 0.5"
+  },
+  "15819": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 73,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": null,
+    "_comment": "8th Inning Total Run Over 1.5"
+  },
+  "15820": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 73,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": null,
+    "_comment": "8th Inning Total Run Under 1.5"
+  },
+  "15821": {
+    "selectionId": 10009,
+    "marketId": 19,
+    "gamePeriodId": 73,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "8th Inning Winner of match Run 1"
+  },
+  "15822": {
+    "selectionId": 10010,
+    "marketId": 19,
+    "gamePeriodId": 73,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "8th Inning Winner of match Run 2"
+  },
+  "15823": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 73,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "8th Inning Individual Total Run Team 1 Over 0.5"
+  },
+  "15824": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 73,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "8th Inning Individual Total Run Team 1 Under 0.5"
+  },
+  "15825": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 72,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "7th Inning Individual Total Run Team 2 Over 0.5"
+  },
+  "15826": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 72,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "7th Inning Individual Total Run Team 2 Under 0.5"
+  },
+  "15827": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 840,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "9th Inning Individual Total Run Team 1 Over 0.5"
+  },
+  "15828": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 840,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "9th Inning Individual Total Run Team 1 Under 0.5"
+  },
+  "15829": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 279,
+    "teamPlayerId": null,
+    "_comment": "Game Total Run Over 3"
+  },
+  "15830": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 279,
+    "teamPlayerId": null,
+    "_comment": "Game Total Run Under 3"
+  },
+  "15831": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "Game Individual Total Run Team 2 Over 0.5"
+  },
+  "15832": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "Game Individual Total Run Team 2 Under 0.5"
+  },
+  "15833": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 64,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 -6"
+  },
+  "15834": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 344,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 6"
+  },
+  "15835": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 61,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 -4"
+  },
+  "15836": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 299,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 4"
+  },
+  "15837": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 102,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 11.5"
+  },
+  "15838": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 16,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -11.5"
+  },
+  "15839": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 158,
+    "teamPlayerId": 2,
+    "_comment": "Game Individual Total Run Team 2 Over 14.5"
+  },
+  "15840": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 158,
+    "teamPlayerId": 2,
+    "_comment": "Game Individual Total Run Team 2 Under 14.5"
+  },
+  "15841": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 78,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 10.5"
+  },
+  "15842": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 14,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -10.5"
+  },
+  "15843": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 101,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 11"
+  },
+  "15844": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 15,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -11"
+  },
+  "15845": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 123,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 12"
+  },
+  "15846": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 17,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -12"
+  },
+  "15847": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 124,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 12.5"
+  },
+  "15848": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 18,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -12.5"
+  },
+  "15849": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 72,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "7th Inning Handicap Run Team 1 H1 0.5"
+  },
+  "15850": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 72,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 3,
+    "teamPlayerId": 2,
+    "_comment": "7th Inning Handicap Run Team 2 H2 -0.5"
+  },
+  "15851": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 72,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": null,
+    "_comment": "7th Inning Total Run Over 0.5"
+  },
+  "15852": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 72,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": null,
+    "_comment": "7th Inning Total Run Under 0.5"
+  },
+  "15853": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 72,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "7th Inning Individual Total Run Team 1 Over 0.5"
+  },
+  "15854": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 72,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "7th Inning Individual Total Run Team 1 Under 0.5"
+  },
+  "15855": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 256,
+    "teamPlayerId": null,
+    "_comment": "Game Total Run Over 2"
+  },
+  "15856": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 256,
+    "teamPlayerId": null,
+    "_comment": "Game Total Run Under 2"
+  },
+  "15857": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 66,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 -7"
+  },
+  "15858": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 367,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 7"
+  },
+  "15859": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 68,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 -8"
+  },
+  "15860": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 389,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 8"
+  },
+  "15861": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 70,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "6th Inning Individual Total Run Team 2 Over 0.5"
+  },
+  "15862": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 70,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "6th Inning Individual Total Run Team 2 Under 0.5"
+  },
+  "15863": {
+    "selectionId": 10009,
+    "marketId": 19,
+    "gamePeriodId": 72,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "7th Inning Winner of match Run 1"
+  },
+  "15864": {
+    "selectionId": 10010,
+    "marketId": 19,
+    "gamePeriodId": 72,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "7th Inning Winner of match Run 2"
+  },
+  "15865": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 72,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 3,
+    "teamPlayerId": 1,
+    "_comment": "7th Inning Handicap Run Team 1 H1 -0.5"
+  },
+  "15866": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 72,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "7th Inning Handicap Run Team 2 H2 0.5"
+  },
+  "15867": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 72,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": null,
+    "_comment": "7th Inning Total Run Over 1.5"
+  },
+  "15868": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 72,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": null,
+    "_comment": "7th Inning Total Run Under 1.5"
+  },
+  "15869": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 141,
+    "teamPlayerId": 2,
+    "_comment": "Game Individual Total Run Team 2 Over 13.5"
+  },
+  "15870": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 141,
+    "teamPlayerId": 2,
+    "_comment": "Game Individual Total Run Team 2 Under 13.5"
+  },
+  "15871": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 77,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 10"
+  },
+  "15872": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 13,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -10"
+  },
+  "15873": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": null,
+    "_comment": "Game Total Run Over 1.5"
+  },
+  "15874": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": null,
+    "_comment": "Game Total Run Under 1.5"
+  },
+  "15875": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 102,
+    "gameVarietyId": 1,
+    "pointsId": 267,
+    "teamPlayerId": null,
+    "_comment": "Game Total Hits + Runs + Errors Over 24"
+  },
+  "15876": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 102,
+    "gameVarietyId": 1,
+    "pointsId": 267,
+    "teamPlayerId": null,
+    "_comment": "Game Total Hits + Runs + Errors Under 24"
+  },
+  "15877": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 140,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 13"
+  },
+  "15878": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 19,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -13"
+  },
+  "15879": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 141,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 13.5"
+  },
+  "15880": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 20,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -13.5"
+  },
+  "15881": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 180,
+    "teamPlayerId": 2,
+    "_comment": "Game Individual Total Run Team 2 Over 15.5"
+  },
+  "15882": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 180,
+    "teamPlayerId": 2,
+    "_comment": "Game Individual Total Run Team 2 Under 15.5"
+  },
+  "15883": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 157,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 14"
+  },
+  "15884": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 21,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -14"
+  },
+  "15885": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 158,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 14.5"
+  },
+  "15886": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 22,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -14.5"
+  },
+  "15887": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 254,
+    "teamPlayerId": null,
+    "_comment": "Game Total Run Over 19"
+  },
+  "15888": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 254,
+    "teamPlayerId": null,
+    "_comment": "Game Total Run Under 19"
+  },
+  "15889": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 202,
+    "teamPlayerId": 2,
+    "_comment": "Game Individual Total Run Team 2 Over 16.5"
+  },
+  "15890": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 202,
+    "teamPlayerId": 2,
+    "_comment": "Game Individual Total Run Team 2 Under 16.5"
+  },
+  "15891": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 259,
+    "teamPlayerId": null,
+    "_comment": "Game Total Run Over 20"
+  },
+  "15892": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 259,
+    "teamPlayerId": null,
+    "_comment": "Game Total Run Under 20"
+  },
+  "15893": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 179,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 15"
+  },
+  "15894": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 23,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -15"
+  },
+  "15895": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 102,
+    "gameVarietyId": 1,
+    "pointsId": 271,
+    "teamPlayerId": null,
+    "_comment": "Game Total Hits + Runs + Errors Over 26"
+  },
+  "15896": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 102,
+    "gameVarietyId": 1,
+    "pointsId": 271,
+    "teamPlayerId": null,
+    "_comment": "Game Total Hits + Runs + Errors Under 26"
+  },
+  "15897": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 1,
+    "gameTypeId": 54,
+    "gameVarietyId": 1,
+    "pointsId": 256,
+    "teamPlayerId": 1,
+    "_comment": "Whole game Individual Total Game Team 1 Over 2"
+  },
+  "15898": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 1,
+    "gameTypeId": 54,
+    "gameVarietyId": 1,
+    "pointsId": 256,
+    "teamPlayerId": 1,
+    "_comment": "Whole game Individual Total Game Team 1 Under 2"
+  },
+  "15899": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 102,
+    "teamPlayerId": 1,
+    "_comment": "Game Individual Total Run Team 1 Over 11.5"
+  },
+  "15900": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 102,
+    "teamPlayerId": 1,
+    "_comment": "Game Individual Total Run Team 1 Under 11.5"
+  },
+  "15901": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 70,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 -9"
+  },
+  "15902": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 411,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 9"
+  },
+  "15903": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 71,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 -9.5"
+  },
+  "15904": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 412,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 9.5"
+  },
+  "15905": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 13,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 -10"
+  },
+  "15906": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 77,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 10"
+  },
+  "15907": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 124,
+    "teamPlayerId": 1,
+    "_comment": "Game Individual Total Run Team 1 Over 12.5"
+  },
+  "15908": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 124,
+    "teamPlayerId": 1,
+    "_comment": "Game Individual Total Run Team 1 Under 12.5"
+  },
+  "15909": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 14,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 -10.5"
+  },
+  "15910": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 78,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 10.5"
+  },
+  "15911": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 15,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 -11"
+  },
+  "15912": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 101,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 11"
+  },
+  "15913": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 16,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 -11.5"
+  },
+  "15914": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 102,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 11.5"
+  },
+  "15915": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 141,
+    "teamPlayerId": 1,
+    "_comment": "Game Individual Total Run Team 1 Over 13.5"
+  },
+  "15916": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 141,
+    "teamPlayerId": 1,
+    "_comment": "Game Individual Total Run Team 1 Under 13.5"
+  },
+  "15917": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 201,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 16"
+  },
+  "15918": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 25,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -16"
+  },
+  "15919": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 234,
+    "teamPlayerId": 2,
+    "_comment": "Game Individual Total Run Team 2 Over 18.5"
+  },
+  "15920": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 234,
+    "teamPlayerId": 2,
+    "_comment": "Game Individual Total Run Team 2 Under 18.5"
+  },
+  "15921": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 180,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 15.5"
+  },
+  "15922": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 24,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -15.5"
+  },
+  "15923": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 202,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 16.5"
+  },
+  "15924": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 26,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -16.5"
+  },
+  "15925": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 261,
+    "teamPlayerId": null,
+    "_comment": "Game Total Run Over 21"
+  },
+  "15926": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 261,
+    "teamPlayerId": null,
+    "_comment": "Game Total Run Under 21"
+  },
+  "15927": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 262,
+    "teamPlayerId": null,
+    "_comment": "Game Total Run Over 21.5"
+  },
+  "15928": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 262,
+    "teamPlayerId": null,
+    "_comment": "Game Total Run Under 21.5"
+  },
+  "15929": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 102,
+    "gameVarietyId": 1,
+    "pointsId": 282,
+    "teamPlayerId": null,
+    "_comment": "Game Total Hits + Runs + Errors Over 30"
+  },
+  "15930": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 102,
+    "gameVarietyId": 1,
+    "pointsId": 282,
+    "teamPlayerId": null,
+    "_comment": "Game Total Hits + Runs + Errors Under 30"
+  },
+  "15931": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 7,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 -1.5"
+  },
+  "15932": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 1.5"
+  },
+  "15933": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 1.5"
+  },
+  "15934": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 7,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 -1.5"
+  },
+  "15935": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 256,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 2"
+  },
+  "15936": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 34,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 -2"
+  },
+  "15937": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 57,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 3,
+    "teamPlayerId": 1,
+    "_comment": "2nd Inning Handicap Run Team 1 H1 -0.5"
+  },
+  "15938": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 57,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "2nd Inning Handicap Run Team 2 H2 0.5"
+  },
+  "15939": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 57,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": null,
+    "_comment": "2nd Inning Total Run Over 1.5"
+  },
+  "15940": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 57,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": null,
+    "_comment": "2nd Inning Total Run Under 1.5"
+  },
+  "15941": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 61,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 3,
+    "teamPlayerId": 1,
+    "_comment": "3rd Inning Handicap Run Team 1 H1 -0.5"
+  },
+  "15942": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 61,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "3rd Inning Handicap Run Team 2 H2 0.5"
+  },
+  "15943": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 61,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": null,
+    "_comment": "3rd Inning Total Run Over 0.5"
+  },
+  "15944": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 61,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": null,
+    "_comment": "3rd Inning Total Run Under 0.5"
+  },
+  "15945": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 61,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "3rd Inning Individual Total Run Team 1 Over 0.5"
+  },
+  "15946": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 61,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "3rd Inning Individual Total Run Team 1 Under 0.5"
+  },
+  "15947": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 61,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "3rd Inning Individual Total Run Team 2 Over 0.5"
+  },
+  "15948": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 61,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "3rd Inning Individual Total Run Team 2 Under 0.5"
+  },
+  "15949": {
+    "selectionId": 10009,
+    "marketId": 19,
+    "gamePeriodId": 61,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "3rd Inning Winner of match Run 1"
+  },
+  "15950": {
+    "selectionId": 10010,
+    "marketId": 19,
+    "gamePeriodId": 61,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "3rd Inning Winner of match Run 2"
+  },
+  "15951": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 61,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "3rd Inning Handicap Run Team 1 H1 0.5"
+  },
+  "15952": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 61,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 3,
+    "teamPlayerId": 2,
+    "_comment": "3rd Inning Handicap Run Team 2 H2 -0.5"
+  },
+  "15953": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 61,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": null,
+    "_comment": "3rd Inning Total Run Over 1.5"
+  },
+  "15954": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 61,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": null,
+    "_comment": "3rd Inning Total Run Under 1.5"
+  },
+  "15955": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 57,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "2nd Inning Handicap Run Team 1 H1 0.5"
+  },
+  "15956": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 57,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 3,
+    "teamPlayerId": 2,
+    "_comment": "2nd Inning Handicap Run Team 2 H2 -0.5"
+  },
+  "15957": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 57,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "2nd Inning Individual Total Run Team 1 Over 0.5"
+  },
+  "15958": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 57,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "2nd Inning Individual Total Run Team 1 Under 0.5"
+  },
+  "15959": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 57,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "2nd Inning Individual Total Run Team 2 Over 0.5"
+  },
+  "15960": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 57,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "2nd Inning Individual Total Run Team 2 Under 0.5"
+  },
+  "15961": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 57,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": null,
+    "_comment": "2nd Inning Total Run Over 0.5"
+  },
+  "15962": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 57,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": null,
+    "_comment": "2nd Inning Total Run Under 0.5"
+  },
+  "15963": {
+    "selectionId": 10009,
+    "marketId": 19,
+    "gamePeriodId": 57,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "2nd Inning Winner of match Run 1"
+  },
+  "15964": {
+    "selectionId": 10010,
+    "marketId": 19,
+    "gamePeriodId": 57,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "2nd Inning Winner of match Run 2"
+  },
+  "15965": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 34,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 -2"
+  },
+  "15966": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 256,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 2"
+  },
+  "15967": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 51,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "1st Inning Individual Total Run Team 2 Over 0.5"
+  },
+  "15968": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 51,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "1st Inning Individual Total Run Team 2 Under 0.5"
+  },
+  "15969": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 5,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 2.5"
+  },
+  "15970": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 36,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 -2.5"
+  },
+  "15971": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 36,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 -2.5"
+  },
+  "15972": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 5,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 2.5"
+  },
+  "15973": {
+    "selectionId": 10009,
+    "marketId": 19,
+    "gamePeriodId": 64,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "4th Inning Winner of match Run 1"
+  },
+  "15974": {
+    "selectionId": 10010,
+    "marketId": 19,
+    "gamePeriodId": 64,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "4th Inning Winner of match Run 2"
+  },
+  "15975": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 64,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "4th Inning Individual Total Run Team 1 Over 0.5"
+  },
+  "15976": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 64,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "4th Inning Individual Total Run Team 1 Under 0.5"
+  },
+  "15977": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 64,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "4th Inning Individual Total Run Team 2 Over 0.5"
+  },
+  "15978": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 64,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "4th Inning Individual Total Run Team 2 Under 0.5"
+  },
+  "15979": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 51,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 -3"
+  },
+  "15980": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 279,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 3"
+  },
+  "15981": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 64,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "4th Inning Handicap Run Team 1 H1 0.5"
+  },
+  "15982": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 64,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 3,
+    "teamPlayerId": 2,
+    "_comment": "4th Inning Handicap Run Team 2 H2 -0.5"
+  },
+  "15983": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 64,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 3,
+    "teamPlayerId": 1,
+    "_comment": "4th Inning Handicap Run Team 1 H1 -0.5"
+  },
+  "15984": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 64,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "4th Inning Handicap Run Team 2 H2 0.5"
+  },
+  "15985": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 64,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": null,
+    "_comment": "4th Inning Total Run Over 0.5"
+  },
+  "15986": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 64,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": null,
+    "_comment": "4th Inning Total Run Under 0.5"
+  },
+  "15987": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 64,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": null,
+    "_comment": "4th Inning Total Run Over 1.5"
+  },
+  "15988": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 64,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": null,
+    "_comment": "4th Inning Total Run Under 1.5"
+  },
+  "15989": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 299,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 4"
+  },
+  "15990": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 61,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -4"
+  },
+  "15991": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 279,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 3"
+  },
+  "15992": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 51,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 -3"
+  },
+  "15993": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 6,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 3.5"
+  },
+  "15994": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 94,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 -3.5"
+  },
+  "15995": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 299,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 4"
+  },
+  "15996": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 61,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 -4"
+  },
+  "15997": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 32,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 4.5"
+  },
+  "15998": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 96,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 -4.5"
+  },
+  "15999": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 320,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 5"
+  },
+  "16000": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 62,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -5"
+  },
+  "16001": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 67,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "5th Inning Handicap Run Team 1 H1 0.5"
+  },
+  "16002": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 67,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 3,
+    "teamPlayerId": 2,
+    "_comment": "5th Inning Handicap Run Team 2 H2 -0.5"
+  },
+  "16003": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 67,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 3,
+    "teamPlayerId": 1,
+    "_comment": "5th Inning Handicap Run Team 1 H1 -0.5"
+  },
+  "16004": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 67,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "5th Inning Handicap Run Team 2 H2 0.5"
+  },
+  "16005": {
+    "selectionId": 10009,
+    "marketId": 19,
+    "gamePeriodId": 67,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "5th Inning Winner of match Run 1"
+  },
+  "16006": {
+    "selectionId": 10010,
+    "marketId": 19,
+    "gamePeriodId": 67,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "5th Inning Winner of match Run 2"
+  },
+  "16007": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 67,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": null,
+    "_comment": "5th Inning Total Run Over 0.5"
+  },
+  "16008": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 67,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": null,
+    "_comment": "5th Inning Total Run Under 0.5"
+  },
+  "16009": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 67,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": null,
+    "_comment": "5th Inning Total Run Over 1.5"
+  },
+  "16010": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 67,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": null,
+    "_comment": "5th Inning Total Run Under 1.5"
+  },
+  "16011": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 67,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "5th Inning Individual Total Run Team 1 Over 0.5"
+  },
+  "16012": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 67,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "5th Inning Individual Total Run Team 1 Under 0.5"
+  },
+  "16013": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 67,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "5th Inning Individual Total Run Team 2 Over 0.5"
+  },
+  "16014": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 67,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "5th Inning Individual Total Run Team 2 Under 0.5"
+  },
+  "16015": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 75,
+    "teamPlayerId": null,
+    "_comment": "1st Half Total Run Over 1"
+  },
+  "16016": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 75,
+    "teamPlayerId": null,
+    "_comment": "1st Half Total Run Under 1"
+  },
+  "16017": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 96,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 -4.5"
+  },
+  "16018": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 32,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 4.5"
+  },
+  "16019": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 61,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 -4"
+  },
+  "16020": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 299,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 4"
+  },
+  "16021": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 94,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 -3.5"
+  },
+  "16022": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 6,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 3.5"
+  },
+  "16023": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 320,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 5"
+  },
+  "16024": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 62,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 -5"
+  },
+  "16025": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 70,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": null,
+    "_comment": "6th Inning Total Run Over 0.5"
+  },
+  "16026": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 70,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": null,
+    "_comment": "6th Inning Total Run Under 0.5"
+  },
+  "16027": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 70,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "6th Inning Individual Total Run Team 1 Over 0.5"
+  },
+  "16028": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 70,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "6th Inning Individual Total Run Team 1 Under 0.5"
+  },
+  "16029": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 70,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "6th Inning Handicap Run Team 1 H1 0.5"
+  },
+  "16030": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 70,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 3,
+    "teamPlayerId": 2,
+    "_comment": "6th Inning Handicap Run Team 2 H2 -0.5"
+  },
+  "16031": {
+    "selectionId": 10009,
+    "marketId": 19,
+    "gamePeriodId": 70,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "6th Inning Winner of match Run 1"
+  },
+  "16032": {
+    "selectionId": 10010,
+    "marketId": 19,
+    "gamePeriodId": 70,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "6th Inning Winner of match Run 2"
+  },
+  "16033": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 70,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 3,
+    "teamPlayerId": 1,
+    "_comment": "6th Inning Handicap Run Team 1 H1 -0.5"
+  },
+  "16034": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 70,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "6th Inning Handicap Run Team 2 H2 0.5"
+  },
+  "16035": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 70,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": null,
+    "_comment": "6th Inning Total Run Over 1.5"
+  },
+  "16036": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 70,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": null,
+    "_comment": "6th Inning Total Run Under 1.5"
+  },
+  "16037": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 62,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 -5"
+  },
+  "16038": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 320,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 5"
+  },
+  "16039": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 411,
+    "teamPlayerId": null,
+    "_comment": "1st Half Total Run Over 9"
+  },
+  "16040": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 411,
+    "teamPlayerId": null,
+    "_comment": "1st Half Total Run Under 9"
+  },
+  "16041": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 77,
+    "teamPlayerId": null,
+    "_comment": "1st Half Total Run Over 10"
+  },
+  "16042": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 77,
+    "teamPlayerId": null,
+    "_comment": "1st Half Total Run Under 10"
+  },
+  "16043": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 63,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 -5.5"
+  },
+  "16044": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 322,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 5.5"
+  },
+  "16045": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 344,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 6"
+  },
+  "16046": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 64,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -6"
+  },
+  "16047": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 52,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": 1,
+    "teamPlayerId": 1,
+    "_comment": "1st Period Handicap Goal Team 1 H1 0"
+  },
+  "16048": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 52,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": 1,
+    "teamPlayerId": 2,
+    "_comment": "1st Period Handicap Goal Team 2 H2 0"
+  },
+  "16049": {
+    "selectionId": 1,
+    "marketId": 1,
+    "gamePeriodId": 52,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "1st Period Full time result Goal 1"
+  },
+  "16050": {
+    "selectionId": 3,
+    "marketId": 1,
+    "gamePeriodId": 52,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "1st Period Full time result Goal 2"
+  },
+  "16051": {
+    "selectionId": 2,
+    "marketId": 1,
+    "gamePeriodId": 52,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "1st Period Full time result Goal X"
+  },
+  "16052": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 64,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 -6"
+  },
+  "16053": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 344,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 6"
+  },
+  "16054": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 52,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": 34,
+    "teamPlayerId": 1,
+    "_comment": "1st Period Handicap Goal Team 1 H1 -2"
+  },
+  "16055": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 52,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": 256,
+    "teamPlayerId": 2,
+    "_comment": "1st Period Handicap Goal Team 2 H2 2"
+  },
+  "16056": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 52,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": 36,
+    "teamPlayerId": 1,
+    "_comment": "1st Period Handicap Goal Team 1 H1 -2.5"
+  },
+  "16057": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 52,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": 5,
+    "teamPlayerId": 2,
+    "_comment": "1st Period Handicap Goal Team 2 H2 2.5"
+  },
+  "16058": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 322,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 5.5"
+  },
+  "16059": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 63,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 -5.5"
+  },
+  "16060": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 346,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Individual Total Run Team 2 Over 6.5"
+  },
+  "16061": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 346,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Individual Total Run Team 2 Under 6.5"
+  },
+  "16062": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 344,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 6"
+  },
+  "16063": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 64,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 -6"
+  },
+  "16064": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 368,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Individual Total Run Team 2 Over 7.5"
+  },
+  "16065": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 368,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Individual Total Run Team 2 Under 7.5"
+  },
+  "16066": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 346,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 6.5"
+  },
+  "16067": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 65,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 -6.5"
+  },
+  "16068": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 78,
+    "teamPlayerId": null,
+    "_comment": "1st Half Total Run Over 10.5"
+  },
+  "16069": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 78,
+    "teamPlayerId": null,
+    "_comment": "1st Half Total Run Under 10.5"
+  },
+  "16070": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 101,
+    "teamPlayerId": null,
+    "_comment": "1st Half Total Run Over 11"
+  },
+  "16071": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 101,
+    "teamPlayerId": null,
+    "_comment": "1st Half Total Run Under 11"
+  },
+  "16072": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 102,
+    "teamPlayerId": null,
+    "_comment": "1st Half Total Run Over 11.5"
+  },
+  "16073": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 102,
+    "teamPlayerId": null,
+    "_comment": "1st Half Total Run Under 11.5"
+  },
+  "16074": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 123,
+    "teamPlayerId": null,
+    "_comment": "1st Half Total Run Over 12"
+  },
+  "16075": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 123,
+    "teamPlayerId": null,
+    "_comment": "1st Half Total Run Under 12"
+  },
+  "16076": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 367,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 7"
+  },
+  "16077": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 66,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -7"
+  },
+  "16078": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 102,
+    "gameVarietyId": 1,
+    "pointsId": 273,
+    "teamPlayerId": null,
+    "_comment": "Game Total Hits + Runs + Errors Over 27"
+  },
+  "16079": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 102,
+    "gameVarietyId": 1,
+    "pointsId": 273,
+    "teamPlayerId": null,
+    "_comment": "Game Total Hits + Runs + Errors Under 27"
+  },
+  "16080": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 1,
+    "gameTypeId": 46,
+    "gameVarietyId": 1,
+    "pointsId": 101,
+    "teamPlayerId": 1,
+    "_comment": "Whole game Handicap Corner Team 1 H1 11"
+  },
+  "16081": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 1,
+    "gameTypeId": 46,
+    "gameVarietyId": 1,
+    "pointsId": 15,
+    "teamPlayerId": 2,
+    "_comment": "Whole game Handicap Corner Team 2 H2 -11"
+  },
+  "16082": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 346,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Individual Total Run Team 1 Over 6.5"
+  },
+  "16083": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 346,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Individual Total Run Team 1 Under 6.5"
+  },
+  "16084": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 389,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 8"
+  },
+  "16085": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 68,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -8"
+  },
+  "16086": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 368,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Individual Total Run Team 1 Over 7.5"
+  },
+  "16087": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 368,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Individual Total Run Team 1 Under 7.5"
+  },
+  "16088": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 65,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 -6.5"
+  },
+  "16089": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 346,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 6.5"
+  },
+  "16090": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 390,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Individual Total Run Team 1 Over 8.5"
+  },
+  "16091": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 390,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Individual Total Run Team 1 Under 8.5"
+  },
+  "16092": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 103,
+    "gameVarietyId": 1,
+    "pointsId": 390,
+    "teamPlayerId": null,
+    "_comment": "Game Individual Total Wins Over 8.5"
+  },
+  "16093": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 103,
+    "gameVarietyId": 1,
+    "pointsId": 390,
+    "teamPlayerId": null,
+    "_comment": "Game Individual Total Wins Under 8.5"
+  },
+  "16094": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 785,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Point Team 1 H1 -83"
+  },
+  "16095": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 397,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Point Team 2 H2 83"
+  },
+  "16096": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 367,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 7"
+  },
+  "16097": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 66,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 -7"
+  },
+  "16098": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 368,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 7.5"
+  },
+  "16099": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 67,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 -7.5"
+  },
+  "16100": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 389,
+    "teamPlayerId": 1,
+    "_comment": "1st Half Handicap Run Team 1 H1 8"
+  },
+  "16101": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 50,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 68,
+    "teamPlayerId": 2,
+    "_comment": "1st Half Handicap Run Team 2 H2 -8"
+  },
+  "16102": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 78,
+    "teamPlayerId": 2,
+    "_comment": "Game Individual Total Run Team 2 Over 10.5"
+  },
+  "16103": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 78,
+    "teamPlayerId": 2,
+    "_comment": "Game Individual Total Run Team 2 Under 10.5"
+  },
+  "16104": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 411,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 9"
+  },
+  "16105": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 70,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 -9"
+  },
+  "16106": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 203,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 71,
+    "teamPlayerId": 1,
+    "_comment": "Map 3 - 1st Half Handicap Round Team 1 H1 -9.5"
+  },
+  "16107": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 203,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 412,
+    "teamPlayerId": 2,
+    "_comment": "Map 3 - 1st Half Handicap Round Team 2 H2 9.5"
+  },
+  "16108": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 202,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 141,
+    "teamPlayerId": null,
+    "_comment": "Map 3 Total Round Over 13.5"
+  },
+  "16109": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 202,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 141,
+    "teamPlayerId": null,
+    "_comment": "Map 3 Total Round Under 13.5"
+  },
+  "16110": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 202,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 18,
+    "teamPlayerId": 1,
+    "_comment": "Map 3 Handicap Round Team 1 H1 -12.5"
+  },
+  "16111": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 202,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 124,
+    "teamPlayerId": 2,
+    "_comment": "Map 3 Handicap Round Team 2 H2 12.5"
+  },
+  "16112": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 1,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 32,
+    "teamPlayerId": null,
+    "_comment": "Whole game Individual Total Point Over 4.5"
+  },
+  "16113": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 1,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 32,
+    "teamPlayerId": null,
+    "_comment": "Whole game Individual Total Point Under 4.5"
+  },
+  "16114": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 1,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 346,
+    "teamPlayerId": null,
+    "_comment": "Whole game Individual Total Point Over 6.5"
+  },
+  "16115": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 1,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 346,
+    "teamPlayerId": null,
+    "_comment": "Whole game Individual Total Point Under 6.5"
+  },
+  "16116": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 1,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 6,
+    "teamPlayerId": null,
+    "_comment": "Whole game Individual Total Point Over 3.5"
+  },
+  "16117": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 1,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 6,
+    "teamPlayerId": null,
+    "_comment": "Whole game Individual Total Point Under 3.5"
+  },
+  "16118": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 1,
+    "_comment": "Whole game Outright Goal Team 1 Yes"
+  },
+  "16119": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 2,
+    "_comment": "Whole game Outright Goal Team 2 Yes"
+  },
+  "16120": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 3,
+    "_comment": "Whole game Outright Goal Team 3 Yes"
+  },
+  "16121": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 4,
+    "_comment": "Whole game Outright Goal Team 4 Yes"
+  },
+  "16122": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 5,
+    "_comment": "Whole game Outright Goal Team 5 Yes"
+  },
+  "16123": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 6,
+    "_comment": "Whole game Outright Goal Team 6 Yes"
+  },
+  "16124": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 7,
+    "_comment": "Whole game Outright Goal Team 7 Yes"
+  },
+  "16125": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 8,
+    "_comment": "Whole game Outright Goal Team 8 Yes"
+  },
+  "16126": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 9,
+    "_comment": "Whole game Outright Goal Team 9 Yes"
+  },
+  "16127": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 10,
+    "_comment": "Whole game Outright Goal Team 10 Yes"
+  },
+  "16128": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 11,
+    "_comment": "Whole game Outright Goal Team 11 Yes"
+  },
+  "16129": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 12,
+    "_comment": "Whole game Outright Goal Team 12 Yes"
+  },
+  "16130": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 13,
+    "_comment": "Whole game Outright Goal Team 13 Yes"
+  },
+  "16131": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 14,
+    "_comment": "Whole game Outright Goal Team 14 Yes"
+  },
+  "16132": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 15,
+    "_comment": "Whole game Outright Goal Team 15 Yes"
+  },
+  "16133": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 16,
+    "_comment": "Whole game Outright Goal Team 16 Yes"
+  },
+  "16134": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 17,
+    "_comment": "Whole game Outright Goal Team 17 Yes"
+  },
+  "16135": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 18,
+    "_comment": "Whole game Outright Goal Team 18 Yes"
+  },
+  "16136": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 19,
+    "_comment": "Whole game Outright Goal Team 19 Yes"
+  },
+  "16137": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 20,
+    "_comment": "Whole game Outright Goal Team 20 Yes"
+  },
+  "16138": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 21,
+    "_comment": "Whole game Outright Goal Team 21 Yes"
+  },
+  "16139": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 22,
+    "_comment": "Whole game Outright Goal Team 22 Yes"
+  },
+  "16140": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 23,
+    "_comment": "Whole game Outright Goal Team 23 Yes"
+  },
+  "16141": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 24,
+    "_comment": "Whole game Outright Goal Team 24 Yes"
+  },
+  "16142": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 25,
+    "_comment": "Whole game Outright Goal Team 25 Yes"
+  },
+  "16143": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 26,
+    "_comment": "Whole game Outright Goal Team 26 Yes"
+  },
+  "16144": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 27,
+    "_comment": "Whole game Outright Goal Team 27 Yes"
+  },
+  "16145": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 28,
+    "_comment": "Whole game Outright Goal Team 28 Yes"
+  },
+  "16146": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 29,
+    "_comment": "Whole game Outright Goal Team 29 Yes"
+  },
+  "16147": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 30,
+    "_comment": "Whole game Outright Goal Team 30 Yes"
+  },
+  "16148": {
+    "selectionId": 47,
+    "marketId": 32,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "Whole game Outright (2 way) Goal Yes"
+  },
+  "16149": {
+    "selectionId": 48,
+    "marketId": 32,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "Whole game Outright (2 way) Goal No"
   }
 }
