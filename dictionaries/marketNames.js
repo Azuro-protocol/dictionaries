@@ -10,7 +10,7 @@ module.exports = {
   '19-1-1': 'Draw no bet',
 
   '9-76-83': 'Who first',
-  '25-1-1': 'Who first (3 way)',
+  '25-1-1': 'Who next (3 way)',
   '26-1-70': 'Both Teams To Score & Full Time Result',
   '27-1-70': 'Both Teams To Score & Total',
   '18-1-1': 'European Handicap (3 way)',

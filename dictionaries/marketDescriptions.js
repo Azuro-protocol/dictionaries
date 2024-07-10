@@ -10,7 +10,7 @@ module.exports = {
   '19-1-1': 'You have to predict who will win in the match, in case of draw you will get the refund',
 
   '9-76-83': 'Who will score the first run in the match?',
-  '25-1-1': 'You have to predict who will score first goal of the match?',
+  '25-1-1': 'You have to predict who will score next goal of the match?',
   '26-1-70': 'You have to predict who will win in the match and will both teams to score?',
   '27-1-70': 'You have to predict whether or not both teams will score at least one goal in the game and will the total goals by both teams be over or under the predicted score for regular time?',
   '18-1-1': 'Will Team 1 beat Team 2 in the number of goals adjusted for handicap?',
