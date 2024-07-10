@@ -1,6 +1,6 @@
 {
   "name": "@azuro-org/dictionaries",
-  "version": "3.0.14",
+  "version": "3.0.15-beta.0",
   "description": "CLI and set of helpers to work with Azuro protocol dictionaries",
   "homepage": "https://github.com/Azuro-protocol/dictionaries/blob/main/packages/dictionaries",
   "author": "",
