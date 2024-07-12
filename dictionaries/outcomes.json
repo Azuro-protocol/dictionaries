@@ -163868,5 +163868,445 @@
     "pointsId": 346,
     "teamPlayerId": null,
     "_comment": "Penalty Shootout 1st Ten Total Goal Under 6.5"
+  },
+  "16388": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 31,
+    "_comment": "Game Outright Winner Team 31 Yes"
+  },
+  "16389": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 32,
+    "_comment": "Game Outright Winner Team 32 Yes"
+  },
+  "16390": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 31,
+    "_comment": "Whole game Outright Winner Team 31 Yes"
+  },
+  "16391": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 32,
+    "_comment": "Whole game Outright Winner Team 32 Yes"
+  },
+  "16392": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 33,
+    "_comment": "Whole game Outright Winner Team 33 Yes"
+  },
+  "16393": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 34,
+    "_comment": "Whole game Outright Winner Team 34 Yes"
+  },
+  "16394": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 35,
+    "_comment": "Whole game Outright Winner Team 35 Yes"
+  },
+  "16395": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 36,
+    "_comment": "Whole game Outright Winner Team 36 Yes"
+  },
+  "16396": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 37,
+    "_comment": "Whole game Outright Winner Team 37 Yes"
+  },
+  "16397": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 38,
+    "_comment": "Whole game Outright Winner Team 38 Yes"
+  },
+  "16398": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 39,
+    "_comment": "Whole game Outright Winner Team 39 Yes"
+  },
+  "16399": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 40,
+    "_comment": "Whole game Outright Winner Team 40 Yes"
+  },
+  "16400": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 41,
+    "_comment": "Whole game Outright Winner Team 41 Yes"
+  },
+  "16401": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 42,
+    "_comment": "Whole game Outright Winner Team 42 Yes"
+  },
+  "16402": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 43,
+    "_comment": "Whole game Outright Winner Team 43 Yes"
+  },
+  "16403": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 44,
+    "_comment": "Whole game Outright Winner Team 44 Yes"
+  },
+  "16404": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 45,
+    "_comment": "Whole game Outright Winner Team 45 Yes"
+  },
+  "16405": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 46,
+    "_comment": "Whole game Outright Winner Team 46 Yes"
+  },
+  "16406": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 47,
+    "_comment": "Whole game Outright Winner Team 47 Yes"
+  },
+  "16407": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 48,
+    "_comment": "Whole game Outright Winner Team 48 Yes"
+  },
+  "16408": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 49,
+    "_comment": "Whole game Outright Winner Team 49 Yes"
+  },
+  "16409": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 50,
+    "_comment": "Whole game Outright Winner Team 50 Yes"
+  },
+  "16410": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 31,
+    "_comment": "Game Outright Point Team 31 Yes"
+  },
+  "16411": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 32,
+    "_comment": "Game Outright Point Team 32 Yes"
+  },
+  "16412": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 33,
+    "_comment": "Game Outright Point Team 33 Yes"
+  },
+  "16413": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 34,
+    "_comment": "Game Outright Point Team 34 Yes"
+  },
+  "16414": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 35,
+    "_comment": "Game Outright Point Team 35 Yes"
+  },
+  "16415": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 36,
+    "_comment": "Game Outright Point Team 36 Yes"
+  },
+  "16416": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 37,
+    "_comment": "Game Outright Point Team 37 Yes"
+  },
+  "16417": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 38,
+    "_comment": "Game Outright Point Team 38 Yes"
+  },
+  "16418": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 39,
+    "_comment": "Game Outright Point Team 39 Yes"
+  },
+  "16419": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 40,
+    "_comment": "Game Outright Point Team 40 Yes"
+  },
+  "16420": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 41,
+    "_comment": "Game Outright Point Team 41 Yes"
+  },
+  "16421": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 42,
+    "_comment": "Game Outright Point Team 42 Yes"
+  },
+  "16422": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 43,
+    "_comment": "Game Outright Point Team 43 Yes"
+  },
+  "16423": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 44,
+    "_comment": "Game Outright Point Team 44 Yes"
+  },
+  "16424": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 45,
+    "_comment": "Game Outright Point Team 45 Yes"
+  },
+  "16425": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 46,
+    "_comment": "Game Outright Point Team 46 Yes"
+  },
+  "16426": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 47,
+    "_comment": "Game Outright Point Team 47 Yes"
+  },
+  "16427": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 48,
+    "_comment": "Game Outright Point Team 48 Yes"
+  },
+  "16428": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 49,
+    "_comment": "Game Outright Point Team 49 Yes"
+  },
+  "16429": {
+    "selectionId": 47,
+    "marketId": 31,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": 50,
+    "_comment": "Game Outright Point Team 50 Yes"
+  },
+  "16430": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 17,
+    "teamPlayerId": 1,
+    "_comment": "Game Handicap Run Team 1 H1 -12"
+  },
+  "16431": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 76,
+    "gameTypeId": 83,
+    "gameVarietyId": 1,
+    "pointsId": 123,
+    "teamPlayerId": 2,
+    "_comment": "Game Handicap Run Team 2 H2 12"
   }
 }
