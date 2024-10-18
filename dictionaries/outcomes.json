@@ -164338,5 +164338,35 @@
     "pointsId": null,
     "teamPlayerId": null,
     "_comment": "Whole game Half with most points (3 way) Corners Neither"
+  },
+  "16435": {
+    "selectionId": 45,
+    "marketId": 33,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "Whole game Half with most points (3 way) Goal 2"
+  },
+  "16436": {
+    "selectionId": 44,
+    "marketId": 33,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "Whole game Half with most points (3 way) Goal 1"
+  },
+  "16437": {
+    "selectionId": 46,
+    "marketId": 33,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "Whole game Half with most points (3 way) Goal Neither"
   }
 }
