@@ -164311,32 +164311,32 @@
   },
   "16432": {
     "selectionId": 45,
-    "marketId": 25,
+    "marketId": 33,
     "gamePeriodId": 1,
     "gameTypeId": 2,
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Whole game Who First (3 way) Corners 2"
+    "_comment": "Whole game Half with most points (3 way) Corners 2"
   },
   "16433": {
     "selectionId": 44,
-    "marketId": 25,
+    "marketId": 33,
     "gamePeriodId": 1,
     "gameTypeId": 2,
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Whole game Who First (3 way) Corners 1"
+    "_comment": "Whole game Half with most points (3 way) Corners 1"
   },
   "16434": {
     "selectionId": 46,
-    "marketId": 25,
+    "marketId": 33,
     "gamePeriodId": 1,
     "gameTypeId": 2,
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Whole game Who First (3 way) Corners Neither"
+    "_comment": "Whole game Half with most points (3 way) Corners Neither"
   }
 }
