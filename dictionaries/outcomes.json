@@ -164718,5 +164718,115 @@
     "pointsId": 1,
     "teamPlayerId": 2,
     "_comment": "1st Half Handicap Shots on target Team 2 H2 0"
+  },
+  "16473": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": 75,
+    "teamPlayerId": 1,
+    "_comment": "Whole game Individual Total Goal Team 1 Over 1"
+  },
+  "16474": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": 75,
+    "teamPlayerId": 1,
+    "_comment": "Whole game Individual Total Goal Team 1 Under 1"
+  },
+  "16475": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": 256,
+    "teamPlayerId": 2,
+    "_comment": "Whole game Individual Total Goal Team 2 Over 2"
+  },
+  "16476": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": 256,
+    "teamPlayerId": 2,
+    "_comment": "Whole game Individual Total Goal Team 2 Under 2"
+  },
+  "16477": {
+    "selectionId": 41,
+    "marketId": 18,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": 1,
+    "teamPlayerId": null,
+    "_comment": "Whole game European handicap (3 way) Goal H1 0"
+  },
+  "16478": {
+    "selectionId": 42,
+    "marketId": 18,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": 1,
+    "teamPlayerId": null,
+    "_comment": "Whole game European handicap (3 way) Goal HX 0"
+  },
+  "16479": {
+    "selectionId": 43,
+    "marketId": 18,
+    "gamePeriodId": 1,
+    "gameTypeId": 1,
+    "gameVarietyId": 1,
+    "pointsId": 1,
+    "teamPlayerId": null,
+    "_comment": "Whole game European handicap (3 way) Goal H2 0"
+  },
+  "16480": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 53,
+    "gameTypeId": 92,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "1st Quarter Individual Total Touchdown Team 1 Under 0.5"
+  },
+  "16481": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 53,
+    "gameTypeId": 92,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 1,
+    "_comment": "1st Quarter Individual Total Touchdown Team 1 Over 0.5"
+  },
+  "16482": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 53,
+    "gameTypeId": 92,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": 1,
+    "_comment": "1st Quarter Individual Total Touchdown Team 1 Under 1.5"
+  },
+  "16483": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 53,
+    "gameTypeId": 92,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": 1,
+    "_comment": "1st Quarter Individual Total Touchdown Team 1 Over 1.5"
   }
 }
