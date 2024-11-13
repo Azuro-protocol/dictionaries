@@ -166853,5 +166853,85 @@
     "pointsId": null,
     "teamPlayerId": null,
     "_comment": "2nd Period Full time result Goal 2"
+  },
+  "16686": {
+    "selectionId": 10009,
+    "marketId": 19,
+    "gamePeriodId": 850,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "3rd Leg Winner of match Point 1"
+  },
+  "16687": {
+    "selectionId": 10010,
+    "marketId": 19,
+    "gamePeriodId": 850,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "3rd Leg Winner of match Point 2"
+  },
+  "16688": {
+    "selectionId": 193,
+    "marketId": 37,
+    "gamePeriodId": 1,
+    "gameTypeId": 51,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "Whole game Fight go to distance Fight No"
+  },
+  "16689": {
+    "selectionId": 192,
+    "marketId": 37,
+    "gamePeriodId": 1,
+    "gameTypeId": 51,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "Whole game Fight go to distance Fight Yes"
+  },
+  "16690": {
+    "selectionId": 35,
+    "marketId": 29,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": 210,
+    "teamPlayerId": null,
+    "_comment": "Whole game Winner of match & Total Winner 1 & Over 163.5"
+  },
+  "16691": {
+    "selectionId": 36,
+    "marketId": 29,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": 210,
+    "teamPlayerId": null,
+    "_comment": "Whole game Winner of match & Total Winner 1 & Under 163.5"
+  },
+  "16692": {
+    "selectionId": 39,
+    "marketId": 29,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": 210,
+    "teamPlayerId": null,
+    "_comment": "Whole game Winner of match & Total Winner 2 & Over 163.5"
+  },
+  "16693": {
+    "selectionId": 40,
+    "marketId": 29,
+    "gamePeriodId": 1,
+    "gameTypeId": 101,
+    "gameVarietyId": 1,
+    "pointsId": 210,
+    "teamPlayerId": null,
+    "_comment": "Whole game Winner of match & Total Winner 2 & Under 163.5"
   }
 }
