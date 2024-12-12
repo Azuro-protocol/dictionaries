@@ -172108,5 +172108,1265 @@
     "pointsId": 478,
     "teamPlayerId": null,
     "_comment": "Whole game Total Point Under 175.5"
+  },
+  "17212": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 325,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Round Over 50.5"
+  },
+  "17213": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 325,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Round Under 50.5"
+  },
+  "17214": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 343,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Round Over 59.5"
+  },
+  "17215": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 343,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Round Under 59.5"
+  },
+  "17216": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 298,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Round Over 39.5"
+  },
+  "17217": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 298,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Round Under 39.5"
+  },
+  "17218": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 333,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Round Over 54.5"
+  },
+  "17219": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 333,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Round Under 54.5"
+  },
+  "17220": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 319,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Round Over 49.5"
+  },
+  "17221": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 319,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Round Under 49.5"
+  },
+  "17222": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 309,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Round Over 44.5"
+  },
+  "17223": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 309,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Round Under 44.5"
+  },
+  "17224": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 291,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Round Over 34.5"
+  },
+  "17225": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 291,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Round Under 34.5"
+  },
+  "17226": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 71,
+    "teamPlayerId": 1,
+    "_comment": "Whole game Handicap Round Team 1 H1 -9.5"
+  },
+  "17227": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 412,
+    "teamPlayerId": 2,
+    "_comment": "Whole game Handicap Round Team 2 H2 9.5"
+  },
+  "17228": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 14,
+    "teamPlayerId": 1,
+    "_comment": "Whole game Handicap Round Team 1 H1 -10.5"
+  },
+  "17229": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 78,
+    "teamPlayerId": 2,
+    "_comment": "Whole game Handicap Round Team 2 H2 10.5"
+  },
+  "17230": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 346,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Round Over 6.5"
+  },
+  "17231": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 82,
+    "gameVarietyId": 1,
+    "pointsId": 346,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Round Under 6.5"
+  },
+  "17232": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 84,
+    "gameTypeId": 60,
+    "gameVarietyId": 1,
+    "pointsId": 368,
+    "teamPlayerId": null,
+    "_comment": "Map 1 - Round 13 Total Kill Over 7.5"
+  },
+  "17233": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 84,
+    "gameTypeId": 60,
+    "gameVarietyId": 1,
+    "pointsId": 368,
+    "teamPlayerId": null,
+    "_comment": "Map 1 - Round 13 Total Kill Under 7.5"
+  },
+  "17234": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 80,
+    "gameTypeId": 60,
+    "gameVarietyId": 1,
+    "pointsId": 368,
+    "teamPlayerId": null,
+    "_comment": "Map 1 - Round 1 Total Kill Over 7.5"
+  },
+  "17235": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 80,
+    "gameTypeId": 60,
+    "gameVarietyId": 1,
+    "pointsId": 368,
+    "teamPlayerId": null,
+    "_comment": "Map 1 - Round 1 Total Kill Under 7.5"
+  },
+  "17236": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 92,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Point Over 106.5"
+  },
+  "17237": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 92,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Point Under 106.5"
+  },
+  "17238": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 95,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Point Over 107.5"
+  },
+  "17239": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 95,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Point Under 107.5"
+  },
+  "17240": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 394,
+    "teamPlayerId": null,
+    "_comment": "Game Total Point Over 81.5"
+  },
+  "17241": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 76,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 394,
+    "teamPlayerId": null,
+    "_comment": "Game Total Point Under 81.5"
+  },
+  "17242": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 353,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Over 63"
+  },
+  "17243": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 353,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Under 63"
+  },
+  "17244": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 338,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Over 57"
+  },
+  "17245": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 338,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Under 57"
+  },
+  "17246": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 202,
+    "teamPlayerId": 2,
+    "_comment": "Whole game and Overtime Individual Total Point Team 2 Over 16.5"
+  },
+  "17247": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 202,
+    "teamPlayerId": 2,
+    "_comment": "Whole game and Overtime Individual Total Point Team 2 Under 16.5"
+  },
+  "17248": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 404,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Point Over 86.5"
+  },
+  "17249": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 404,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Point Under 86.5"
+  },
+  "17250": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 1,
+    "gameTypeId": 2,
+    "gameVarietyId": 1,
+    "pointsId": 75,
+    "teamPlayerId": 2,
+    "_comment": "Whole game Handicap Corners Team 2 H2 1"
+  },
+  "17251": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 1,
+    "gameTypeId": 2,
+    "gameVarietyId": 1,
+    "pointsId": 11,
+    "teamPlayerId": 1,
+    "_comment": "Whole game Handicap Corners Team 1 H1 -1"
+  },
+  "17252": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 1,
+    "gameTypeId": 2,
+    "gameVarietyId": 1,
+    "pointsId": 73,
+    "teamPlayerId": 2,
+    "_comment": "Whole game Handicap Corners Team 2 H2 0.5"
+  },
+  "17253": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 1,
+    "gameTypeId": 2,
+    "gameVarietyId": 1,
+    "pointsId": 3,
+    "teamPlayerId": 1,
+    "_comment": "Whole game Handicap Corners Team 1 H1 -0.5"
+  },
+  "17254": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 1,
+    "gameTypeId": 2,
+    "gameVarietyId": 1,
+    "pointsId": 7,
+    "teamPlayerId": 1,
+    "_comment": "Whole game Handicap Corners Team 1 H1 -1.5"
+  },
+  "17255": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 1,
+    "gameTypeId": 2,
+    "gameVarietyId": 1,
+    "pointsId": 4,
+    "teamPlayerId": 2,
+    "_comment": "Whole game Handicap Corners Team 2 H2 1.5"
+  },
+  "17256": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 2,
+    "gameVarietyId": 1,
+    "pointsId": 411,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Corners Over 9"
+  },
+  "17257": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 2,
+    "gameVarietyId": 1,
+    "pointsId": 411,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Corners Under 9"
+  },
+  "17258": {
+    "selectionId": 10009,
+    "marketId": 19,
+    "gamePeriodId": 516,
+    "gameTypeId": 87,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "Set 1 Game 1 Winner of match Set 1"
+  },
+  "17259": {
+    "selectionId": 10010,
+    "marketId": 19,
+    "gamePeriodId": 516,
+    "gameTypeId": 87,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "Set 1 Game 1 Winner of match Set 2"
+  },
+  "17260": {
+    "selectionId": 10009,
+    "marketId": 19,
+    "gamePeriodId": 521,
+    "gameTypeId": 87,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "Set 1 Game 2 Winner of match Set 1"
+  },
+  "17261": {
+    "selectionId": 10010,
+    "marketId": 19,
+    "gamePeriodId": 521,
+    "gameTypeId": 87,
+    "gameVarietyId": 1,
+    "pointsId": null,
+    "teamPlayerId": null,
+    "_comment": "Set 1 Game 2 Winner of match Set 2"
+  },
+  "17262": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 234,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Individual Total Point Team 1 Over 18.5"
+  },
+  "17263": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 234,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Individual Total Point Team 1 Under 18.5"
+  },
+  "17264": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 141,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Individual Total Point Team 1 Over 13.5"
+  },
+  "17265": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 141,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Individual Total Point Team 1 Under 13.5"
+  },
+  "17266": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 264,
+    "teamPlayerId": 2,
+    "_comment": "Whole game and Overtime Handicap Point Team 2 H2 22.5"
+  },
+  "17267": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 428,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Handicap Point Team 1 H1 -22.5"
+  },
+  "17268": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 259,
+    "teamPlayerId": 2,
+    "_comment": "Whole game and Overtime Handicap Point Team 2 H2 20"
+  },
+  "17269": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 38,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Handicap Point Team 1 H1 -20"
+  },
+  "17270": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 233,
+    "teamPlayerId": 2,
+    "_comment": "Whole game and Overtime Handicap Point Team 2 H2 18"
+  },
+  "17271": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 29,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Handicap Point Team 1 H1 -18"
+  },
+  "17272": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 263,
+    "teamPlayerId": 2,
+    "_comment": "Whole game and Overtime Handicap Point Team 2 H2 22"
+  },
+  "17273": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 430,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Handicap Point Team 1 H1 -22"
+  },
+  "17274": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 261,
+    "teamPlayerId": 2,
+    "_comment": "Whole game and Overtime Handicap Point Team 2 H2 21"
+  },
+  "17275": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 40,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Handicap Point Team 1 H1 -21"
+  },
+  "17276": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 260,
+    "teamPlayerId": 2,
+    "_comment": "Whole game and Overtime Handicap Point Team 2 H2 20.5"
+  },
+  "17277": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 39,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Handicap Point Team 1 H1 -20.5"
+  },
+  "17278": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 254,
+    "teamPlayerId": 2,
+    "_comment": "Whole game and Overtime Handicap Point Team 2 H2 19"
+  },
+  "17279": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 31,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Handicap Point Team 1 H1 -19"
+  },
+  "17280": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 255,
+    "teamPlayerId": 2,
+    "_comment": "Whole game and Overtime Handicap Point Team 2 H2 19.5"
+  },
+  "17281": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 33,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Handicap Point Team 1 H1 -19.5"
+  },
+  "17282": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 223,
+    "teamPlayerId": 2,
+    "_comment": "Whole game and Overtime Handicap Point Team 2 H2 17"
+  },
+  "17283": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 27,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Handicap Point Team 1 H1 -17"
+  },
+  "17284": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 262,
+    "teamPlayerId": 2,
+    "_comment": "Whole game and Overtime Handicap Point Team 2 H2 21.5"
+  },
+  "17285": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 424,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Handicap Point Team 1 H1 -21.5"
+  },
+  "17286": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 30,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Handicap Point Team 1 H1 -18.5"
+  },
+  "17287": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 234,
+    "teamPlayerId": 2,
+    "_comment": "Whole game and Overtime Handicap Point Team 2 H2 18.5"
+  },
+  "17288": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 28,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Handicap Point Team 1 H1 -17.5"
+  },
+  "17289": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 224,
+    "teamPlayerId": 2,
+    "_comment": "Whole game and Overtime Handicap Point Team 2 H2 17.5"
+  },
+  "17290": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 266,
+    "teamPlayerId": 2,
+    "_comment": "Whole game and Overtime Handicap Point Team 2 H2 23.5"
+  },
+  "17291": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 429,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Handicap Point Team 1 H1 -23.5"
+  },
+  "17292": {
+    "selectionId": 8,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 265,
+    "teamPlayerId": 2,
+    "_comment": "Whole game and Overtime Handicap Point Team 2 H2 23"
+  },
+  "17293": {
+    "selectionId": 7,
+    "marketId": 3,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 427,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Handicap Point Team 1 H1 -23"
+  },
+  "17294": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 276,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Individual Total Point Team 1 Under 28.5"
+  },
+  "17295": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 276,
+    "teamPlayerId": 1,
+    "_comment": "Whole game and Overtime Individual Total Point Team 1 Over 28.5"
+  },
+  "17296": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 59,
+    "gameTypeId": 54,
+    "gameVarietyId": 1,
+    "pointsId": 322,
+    "teamPlayerId": 2,
+    "_comment": "2nd Set Individual Total Game Team 2 Over 5.5"
+  },
+  "17297": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 59,
+    "gameTypeId": 54,
+    "gameVarietyId": 1,
+    "pointsId": 322,
+    "teamPlayerId": 2,
+    "_comment": "2nd Set Individual Total Game Team 2 Under 5.5"
+  },
+  "17298": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 59,
+    "gameTypeId": 54,
+    "gameVarietyId": 1,
+    "pointsId": 346,
+    "teamPlayerId": 2,
+    "_comment": "2nd Set Individual Total Game Team 2 Over 6.5"
+  },
+  "17299": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 59,
+    "gameTypeId": 54,
+    "gameVarietyId": 1,
+    "pointsId": 346,
+    "teamPlayerId": 2,
+    "_comment": "2nd Set Individual Total Game Team 2 Under 6.5"
+  },
+  "17300": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 59,
+    "gameTypeId": 54,
+    "gameVarietyId": 1,
+    "pointsId": 32,
+    "teamPlayerId": 2,
+    "_comment": "2nd Set Individual Total Game Team 2 Over 4.5"
+  },
+  "17301": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 59,
+    "gameTypeId": 54,
+    "gameVarietyId": 1,
+    "pointsId": 32,
+    "teamPlayerId": 2,
+    "_comment": "2nd Set Individual Total Game Team 2 Under 4.5"
+  },
+  "17302": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 59,
+    "gameTypeId": 54,
+    "gameVarietyId": 1,
+    "pointsId": 6,
+    "teamPlayerId": 1,
+    "_comment": "2nd Set Individual Total Game Team 1 Over 3.5"
+  },
+  "17303": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 59,
+    "gameTypeId": 54,
+    "gameVarietyId": 1,
+    "pointsId": 6,
+    "teamPlayerId": 1,
+    "_comment": "2nd Set Individual Total Game Team 1 Under 3.5"
+  },
+  "17304": {
+    "selectionId": 15,
+    "marketId": 7,
+    "gamePeriodId": 59,
+    "gameTypeId": 54,
+    "gameVarietyId": 1,
+    "pointsId": 5,
+    "teamPlayerId": 1,
+    "_comment": "2nd Set Individual Total Game Team 1 Over 2.5"
+  },
+  "17305": {
+    "selectionId": 16,
+    "marketId": 7,
+    "gamePeriodId": 59,
+    "gameTypeId": 54,
+    "gameVarietyId": 1,
+    "pointsId": 5,
+    "teamPlayerId": 1,
+    "_comment": "2nd Set Individual Total Game Team 1 Under 2.5"
+  },
+  "17306": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 108,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Point Over 112.5"
+  },
+  "17307": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 108,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Point Under 112.5"
+  },
+  "17308": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 354,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Over 63.5"
+  },
+  "17309": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 354,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Under 63.5"
+  },
+  "17310": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 355,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Over 64"
+  },
+  "17311": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 355,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Under 64"
+  },
+  "17312": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 350,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Over 61.5"
+  },
+  "17313": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 350,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Under 61.5"
+  },
+  "17314": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 342,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Over 59"
+  },
+  "17315": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 342,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Under 59"
+  },
+  "17316": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 341,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Over 58.5"
+  },
+  "17317": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 341,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Under 58.5"
+  },
+  "17318": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 343,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Over 59.5"
+  },
+  "17319": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 343,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Under 59.5"
+  },
+  "17320": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 347,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Over 60"
+  },
+  "17321": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 347,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Under 60"
+  },
+  "17322": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 351,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Over 62"
+  },
+  "17323": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 351,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Under 62"
+  },
+  "17324": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 339,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Over 57.5"
+  },
+  "17325": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 339,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Under 57.5"
+  },
+  "17326": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 356,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Over 64.5"
+  },
+  "17327": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 356,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Under 64.5"
+  },
+  "17328": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 358,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Over 65.5"
+  },
+  "17329": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 358,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Under 65.5"
+  },
+  "17330": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 357,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Over 65"
+  },
+  "17331": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 357,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Under 65"
+  },
+  "17332": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 360,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Over 66.5"
+  },
+  "17333": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 360,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Under 66.5"
+  },
+  "17334": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 359,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Over 66"
+  },
+  "17335": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 849,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 359,
+    "teamPlayerId": null,
+    "_comment": "Whole game and Overtime Total Point Under 66"
+  },
+  "17336": {
+    "selectionId": 9,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 98,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Point Over 108.5"
+  },
+  "17337": {
+    "selectionId": 10,
+    "marketId": 4,
+    "gamePeriodId": 1,
+    "gameTypeId": 76,
+    "gameVarietyId": 1,
+    "pointsId": 98,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Point Under 108.5"
   }
 }
