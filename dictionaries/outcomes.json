@@ -1217,7 +1217,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 2,
-    "_comment": "Whole game Individual Total Even Goal Team 2 No"
+    "_comment": "Whole game Individual Total Odd/Even Goal Team 2 Odd"
   },
   "123": {
     "selectionId": 19,
@@ -1227,7 +1227,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 2,
-    "_comment": "Whole game Individual Total Even Goal Team 2 Yes"
+    "_comment": "Whole game Individual Total Odd/Even Goal Team 2 Even"
   },
   "124": {
     "selectionId": 23,
@@ -1707,7 +1707,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 1,
-    "_comment": "Whole game Individual Total Even Goal Team 1 No"
+    "_comment": "Whole game Individual Total Odd/Even Goal Team 1 Odd"
   },
   "172": {
     "selectionId": 19,
@@ -1717,7 +1717,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 1,
-    "_comment": "Whole game Individual Total Even Goal Team 1 Yes"
+    "_comment": "Whole game Individual Total Odd/Even Goal Team 1 Even"
   },
   "173": {
     "selectionId": 182,
@@ -1727,7 +1727,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Whole game Total Even Goal Yes"
+    "_comment": "Whole game Total Odd/Even Goal Even"
   },
   "174": {
     "selectionId": 183,
@@ -1737,7 +1737,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Whole game Total Even Goal No"
+    "_comment": "Whole game Total Odd/Even Goal Odd"
   },
   "175": {
     "selectionId": 182,
@@ -1747,7 +1747,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "1st Half Total Even Goal Yes"
+    "_comment": "1st Half Total Odd/Even Goal Even"
   },
   "176": {
     "selectionId": 183,
@@ -1757,7 +1757,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "1st Half Total Even Goal No"
+    "_comment": "1st Half Total Odd/Even Goal Odd"
   },
   "177": {
     "selectionId": 9,
@@ -4867,7 +4867,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 1 Total Even Round Yes"
+    "_comment": "Map 1 Total Odd/Even Round Even"
   },
   "488": {
     "selectionId": 183,
@@ -4877,7 +4877,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 1 Total Even Round No"
+    "_comment": "Map 1 Total Odd/Even Round Odd"
   },
   "489": {
     "selectionId": 9,
@@ -6547,7 +6547,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 2 Total Even Round Yes"
+    "_comment": "Map 2 Total Odd/Even Round Even"
   },
   "656": {
     "selectionId": 183,
@@ -6557,7 +6557,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 2 Total Even Round No"
+    "_comment": "Map 2 Total Odd/Even Round Odd"
   },
   "657": {
     "selectionId": 192,
@@ -6587,7 +6587,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 3 Total Even Round Yes"
+    "_comment": "Map 3 Total Odd/Even Round Even"
   },
   "660": {
     "selectionId": 183,
@@ -6597,7 +6597,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 3 Total Even Round No"
+    "_comment": "Map 3 Total Odd/Even Round Odd"
   },
   "661": {
     "selectionId": 192,
@@ -8937,7 +8937,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 1 Total Even Kill Yes"
+    "_comment": "Map 1 Total Odd/Even Kill Even"
   },
   "895": {
     "selectionId": 183,
@@ -8947,7 +8947,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 1 Total Even Kill No"
+    "_comment": "Map 1 Total Odd/Even Kill Odd"
   },
   "896": {
     "selectionId": 15,
@@ -9017,7 +9017,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 2 Total Even Kill Yes"
+    "_comment": "Map 2 Total Odd/Even Kill Even"
   },
   "903": {
     "selectionId": 183,
@@ -9027,7 +9027,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 2 Total Even Kill No"
+    "_comment": "Map 2 Total Odd/Even Kill Odd"
   },
   "904": {
     "selectionId": 7,
@@ -9497,7 +9497,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 4 Total Even Kill Yes"
+    "_comment": "Map 4 Total Odd/Even Kill Even"
   },
   "951": {
     "selectionId": 183,
@@ -9507,7 +9507,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 4 Total Even Kill No"
+    "_comment": "Map 4 Total Odd/Even Kill Odd"
   },
   "952": {
     "selectionId": 7,
@@ -9597,7 +9597,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 3 Total Even Kill Yes"
+    "_comment": "Map 3 Total Odd/Even Kill Even"
   },
   "961": {
     "selectionId": 183,
@@ -9607,7 +9607,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 3 Total Even Kill No"
+    "_comment": "Map 3 Total Odd/Even Kill Odd"
   },
   "962": {
     "selectionId": 7,
@@ -9637,7 +9637,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 5 Total Even Kill Yes"
+    "_comment": "Map 5 Total Odd/Even Kill Even"
   },
   "965": {
     "selectionId": 183,
@@ -9647,7 +9647,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 5 Total Even Kill No"
+    "_comment": "Map 5 Total Odd/Even Kill Odd"
   },
   "966": {
     "selectionId": 7,
@@ -38787,7 +38787,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Game Total Even Run Yes"
+    "_comment": "Game Total Odd/Even Run Even"
   },
   "3880": {
     "selectionId": 183,
@@ -38797,7 +38797,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Game Total Even Run No"
+    "_comment": "Game Total Odd/Even Run Odd"
   },
   "3881": {
     "selectionId": 15,
@@ -38947,7 +38947,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 1,
-    "_comment": "1st Half Individual Total Even Run Team 1 No"
+    "_comment": "1st Half Individual Total Odd/Even Run Team 1 Odd"
   },
   "3896": {
     "selectionId": 19,
@@ -38957,7 +38957,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 1,
-    "_comment": "1st Half Individual Total Even Run Team 1 Yes"
+    "_comment": "1st Half Individual Total Odd/Even Run Team 1 Even"
   },
   "3897": {
     "selectionId": 20,
@@ -38967,7 +38967,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 2,
-    "_comment": "1st Half Individual Total Even Run Team 2 No"
+    "_comment": "1st Half Individual Total Odd/Even Run Team 2 Odd"
   },
   "3898": {
     "selectionId": 19,
@@ -38977,7 +38977,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 2,
-    "_comment": "1st Half Individual Total Even Run Team 2 Yes"
+    "_comment": "1st Half Individual Total Odd/Even Run Team 2 Even"
   },
   "3899": {
     "selectionId": 7,
@@ -43987,7 +43987,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 2,
-    "_comment": "Game Individual Total Even Run Team 2 No"
+    "_comment": "Game Individual Total Odd/Even Run Team 2 Odd"
   },
   "4400": {
     "selectionId": 19,
@@ -43997,7 +43997,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 2,
-    "_comment": "Game Individual Total Even Run Team 2 Yes"
+    "_comment": "Game Individual Total Odd/Even Run Team 2 Even"
   },
   "4401": {
     "selectionId": 20,
@@ -44007,7 +44007,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 1,
-    "_comment": "Game Individual Total Even Run Team 1 No"
+    "_comment": "Game Individual Total Odd/Even Run Team 1 Odd"
   },
   "4402": {
     "selectionId": 19,
@@ -44017,7 +44017,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 1,
-    "_comment": "Game Individual Total Even Run Team 1 Yes"
+    "_comment": "Game Individual Total Odd/Even Run Team 1 Even"
   },
   "4403": {
     "selectionId": 182,
@@ -44027,7 +44027,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "1st Half Total Even Run Yes"
+    "_comment": "1st Half Total Odd/Even Run Even"
   },
   "4404": {
     "selectionId": 183,
@@ -44037,7 +44037,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "1st Half Total Even Run No"
+    "_comment": "1st Half Total Odd/Even Run Odd"
   },
   "4405": {
     "selectionId": 9,
@@ -55187,7 +55187,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 4 Total Even Round Yes"
+    "_comment": "Map 4 Total Odd/Even Round Even"
   },
   "5520": {
     "selectionId": 183,
@@ -55197,7 +55197,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 4 Total Even Round No"
+    "_comment": "Map 4 Total Odd/Even Round Odd"
   },
   "5521": {
     "selectionId": 192,
@@ -55227,7 +55227,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 5 Total Even Round Yes"
+    "_comment": "Map 5 Total Odd/Even Round Even"
   },
   "5524": {
     "selectionId": 183,
@@ -55237,7 +55237,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Map 5 Total Even Round No"
+    "_comment": "Map 5 Total Odd/Even Round Odd"
   },
   "5525": {
     "selectionId": 7,
@@ -76967,7 +76967,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Game Total Even Point Yes"
+    "_comment": "Game Total Odd/Even Point Even"
   },
   "7698": {
     "selectionId": 183,
@@ -76977,7 +76977,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Game Total Even Point No"
+    "_comment": "Game Total Odd/Even Point Odd"
   },
   "7699": {
     "selectionId": 20,
@@ -76987,7 +76987,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 1,
-    "_comment": "Game Individual Total Even Point Team 1 No"
+    "_comment": "Game Individual Total Odd/Even Point Team 1 Odd"
   },
   "7700": {
     "selectionId": 19,
@@ -76997,7 +76997,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 1,
-    "_comment": "Game Individual Total Even Point Team 1 Yes"
+    "_comment": "Game Individual Total Odd/Even Point Team 1 Even"
   },
   "7701": {
     "selectionId": 20,
@@ -77007,7 +77007,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 2,
-    "_comment": "Game Individual Total Even Point Team 2 No"
+    "_comment": "Game Individual Total Odd/Even Point Team 2 Odd"
   },
   "7702": {
     "selectionId": 19,
@@ -77017,7 +77017,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 2,
-    "_comment": "Game Individual Total Even Point Team 2 Yes"
+    "_comment": "Game Individual Total Odd/Even Point Team 2 Even"
   },
   "7703": {
     "selectionId": 7,
@@ -97437,7 +97437,7 @@
     "gameVarietyId": 1,
     "pointsId": 5,
     "teamPlayerId": null,
-    "_comment": "Whole game Total Even & Total Multiple No & Over 2.5"
+    "_comment": "Whole game Total Odd/Even & Total Multiple No & Over 2.5"
   },
   "9745": {
     "selectionId": 34,
@@ -97447,7 +97447,7 @@
     "gameVarietyId": 1,
     "pointsId": 5,
     "teamPlayerId": null,
-    "_comment": "Whole game Total Even & Total Multiple No & Under 2.5"
+    "_comment": "Whole game Total Odd/Even & Total Multiple No & Under 2.5"
   },
   "9746": {
     "selectionId": 31,
@@ -97457,7 +97457,7 @@
     "gameVarietyId": 1,
     "pointsId": 5,
     "teamPlayerId": null,
-    "_comment": "Whole game Total Even & Total Multiple Yes & Over 2.5"
+    "_comment": "Whole game Total Odd/Even & Total Multiple Yes & Over 2.5"
   },
   "9747": {
     "selectionId": 32,
@@ -97467,7 +97467,7 @@
     "gameVarietyId": 1,
     "pointsId": 5,
     "teamPlayerId": null,
-    "_comment": "Whole game Total Even & Total Multiple Yes & Under 2.5"
+    "_comment": "Whole game Total Odd/Even & Total Multiple Yes & Under 2.5"
   },
   "9748": {
     "selectionId": 35,
@@ -97657,7 +97657,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 2,
-    "_comment": "1st Half Individual Total Even Point Team 2 No"
+    "_comment": "1st Half Individual Total Odd/Even Point Team 2 Odd"
   },
   "9767": {
     "selectionId": 19,
@@ -97667,7 +97667,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 2,
-    "_comment": "1st Half Individual Total Even Point Team 2 Yes"
+    "_comment": "1st Half Individual Total Odd/Even Point Team 2 Even"
   },
   "9768": {
     "selectionId": 182,
@@ -97677,7 +97677,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "1st Half Total Even Point Yes"
+    "_comment": "1st Half Total Odd/Even Point Even"
   },
   "9769": {
     "selectionId": 183,
@@ -97687,7 +97687,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "1st Half Total Even Point No"
+    "_comment": "1st Half Total Odd/Even Point Odd"
   },
   "9770": {
     "selectionId": 20,
@@ -97697,7 +97697,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 1,
-    "_comment": "1st Half Individual Total Even Point Team 1 No"
+    "_comment": "1st Half Individual Total Odd/Even Point Team 1 Odd"
   },
   "9771": {
     "selectionId": 19,
@@ -97707,7 +97707,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 1,
-    "_comment": "1st Half Individual Total Even Point Team 1 Yes"
+    "_comment": "1st Half Individual Total Odd/Even Point Team 1 Even"
   },
   "9772": {
     "selectionId": 9,
@@ -167087,7 +167087,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "1st Quarter Total Even Point No"
+    "_comment": "1st Quarter Total Odd/Even Point Odd"
   },
   "16710": {
     "selectionId": 182,
@@ -167097,7 +167097,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "1st Quarter Total Even Point Yes"
+    "_comment": "1st Quarter Total Odd/Even Point Even"
   },
   "16711": {
     "selectionId": 183,
@@ -167107,7 +167107,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "2nd Quarter Total Even Point No"
+    "_comment": "2nd Quarter Total Odd/Even Point Odd"
   },
   "16712": {
     "selectionId": 182,
@@ -167117,7 +167117,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "2nd Quarter Total Even Point Yes"
+    "_comment": "2nd Quarter Total Odd/Even Point Even"
   },
   "16713": {
     "selectionId": 16,
@@ -167217,7 +167217,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Whole game Total Even Game No"
+    "_comment": "Whole game Total Odd/Even Game Odd"
   },
   "16723": {
     "selectionId": 182,
@@ -167227,7 +167227,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Whole game Total Even Game Yes"
+    "_comment": "Whole game Total Odd/Even Game Even"
   },
   "16724": {
     "selectionId": 183,
@@ -167237,7 +167237,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "1st Set Total Even Game No"
+    "_comment": "1st Set Total Odd/Even Game Odd"
   },
   "16725": {
     "selectionId": 182,
@@ -167247,7 +167247,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "1st Set Total Even Game Yes"
+    "_comment": "1st Set Total Odd/Even Game Even"
   },
   "16726": {
     "selectionId": 10,
@@ -167317,7 +167317,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "2nd Half Total Even Point Yes"
+    "_comment": "2nd Half Total Odd/Even Point Even"
   },
   "16733": {
     "selectionId": 183,
@@ -167327,7 +167327,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "2nd Half Total Even Point No"
+    "_comment": "2nd Half Total Odd/Even Point Odd"
   },
   "16734": {
     "selectionId": 183,
@@ -167337,7 +167337,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "3rd Quarter Total Even Point No"
+    "_comment": "3rd Quarter Total Odd/Even Point Odd"
   },
   "16735": {
     "selectionId": 182,
@@ -167347,7 +167347,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "3rd Quarter Total Even Point Yes"
+    "_comment": "3rd Quarter Total Odd/Even Point Even"
   },
   "16736": {
     "selectionId": 44,
@@ -167387,7 +167387,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "4th Quarter Total Even Point No"
+    "_comment": "4th Quarter Total Odd/Even Point Odd"
   },
   "16740": {
     "selectionId": 182,
@@ -167397,7 +167397,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "4th Quarter Total Even Point Yes"
+    "_comment": "4th Quarter Total Odd/Even Point Even"
   },
   "16741": {
     "selectionId": 2,
@@ -167697,7 +167697,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "2nd Half Total Even Goal No"
+    "_comment": "2nd Half Total Odd/Even Goal Odd"
   },
   "16771": {
     "selectionId": 182,
@@ -167707,7 +167707,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "2nd Half Total Even Goal Yes"
+    "_comment": "2nd Half Total Odd/Even Goal Even"
   },
   "16772": {
     "selectionId": 5,
@@ -168417,7 +168417,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Whole game Total Even Point No"
+    "_comment": "Whole game Total Odd/Even Point Odd"
   },
   "16843": {
     "selectionId": 182,
@@ -168427,7 +168427,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Whole game Total Even Point Yes"
+    "_comment": "Whole game Total Odd/Even Point Even"
   },
   "16844": {
     "selectionId": 10009,
@@ -169997,7 +169997,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Whole game and Overtime Total Even Point No"
+    "_comment": "Whole game and Overtime Total Odd/Even Point Odd"
   },
   "17001": {
     "selectionId": 182,
@@ -170007,7 +170007,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": null,
-    "_comment": "Whole game and Overtime Total Even Point Yes"
+    "_comment": "Whole game and Overtime Total Odd/Even Point Even"
   },
   "17002": {
     "selectionId": 24,
@@ -171357,7 +171357,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 2,
-    "_comment": "Whole game Individual Total Even Point Team 2 No"
+    "_comment": "Whole game Individual Total Odd/Even Point Team 2 Odd"
   },
   "17137": {
     "selectionId": 19,
@@ -171367,7 +171367,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 2,
-    "_comment": "Whole game Individual Total Even Point Team 2 Yes"
+    "_comment": "Whole game Individual Total Odd/Even Point Team 2 Even"
   },
   "17138": {
     "selectionId": 20,
@@ -171377,7 +171377,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 1,
-    "_comment": "Whole game Individual Total Even Point Team 1 No"
+    "_comment": "Whole game Individual Total Odd/Even Point Team 1 Odd"
   },
   "17139": {
     "selectionId": 19,
@@ -171387,7 +171387,7 @@
     "gameVarietyId": 1,
     "pointsId": null,
     "teamPlayerId": 1,
-    "_comment": "Whole game Individual Total Even Point Team 1 Yes"
+    "_comment": "Whole game Individual Total Odd/Even Point Team 1 Even"
   },
   "17140": {
     "selectionId": 9,
@@ -173368,5 +173368,45 @@
     "pointsId": 98,
     "teamPlayerId": null,
     "_comment": "Whole game Total Point Under 108.5"
+  },
+  "17338": {
+    "selectionId": 53,
+    "marketId": 30,
+    "gamePeriodId": 1,
+    "gameTypeId": 70,
+    "gameVarietyId": 1,
+    "pointsId": 5,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Odd/Even & Total Multiple Odd & Over 2.5"
+  },
+  "17339": {
+    "selectionId": 54,
+    "marketId": 30,
+    "gamePeriodId": 1,
+    "gameTypeId": 70,
+    "gameVarietyId": 1,
+    "pointsId": 5,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Odd/Even & Total Multiple Odd & Under 2.5"
+  },
+  "17340": {
+    "selectionId": 51,
+    "marketId": 30,
+    "gamePeriodId": 1,
+    "gameTypeId": 70,
+    "gameVarietyId": 1,
+    "pointsId": 5,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Odd/Even & Total Multiple Even & Over 2.5"
+  },
+  "17341": {
+    "selectionId": 52,
+    "marketId": 30,
+    "gamePeriodId": 1,
+    "gameTypeId": 70,
+    "gameVarietyId": 1,
+    "pointsId": 5,
+    "teamPlayerId": null,
+    "_comment": "Whole game Total Odd/Even & Total Multiple Even & Under 2.5"
   }
 }
