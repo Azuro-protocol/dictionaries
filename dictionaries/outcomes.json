@@ -173417,7 +173417,7 @@
     "gameVarietyId": 1,
     "pointsId": 75,
     "teamPlayerId": null,
-    "_comment": "1-Х innings Leader after X Innings Run 1|X|2"
+    "_comment": "1-Х innings Leader after X Innings Run 1"
   },
   "17343": {
     "selectionId": 2,
@@ -173427,7 +173427,7 @@
     "gameVarietyId": 1,
     "pointsId": 75,
     "teamPlayerId": null,
-    "_comment": "1-Х innings Leader after X Innings Run 1|X|2"
+    "_comment": "1-Х innings Leader after X Innings Run X"
   },
   "17344": {
     "selectionId": 3,
@@ -173437,7 +173437,7 @@
     "gameVarietyId": 1,
     "pointsId": 75,
     "teamPlayerId": null,
-    "_comment": "1-Х innings Leader after X Innings Run 1|X|2"
+    "_comment": "1-Х innings Leader after X Innings Run 2"
   },
   "17345": {
     "selectionId": 10009,
@@ -173447,7 +173447,7 @@
     "gameVarietyId": 1,
     "pointsId": 75,
     "teamPlayerId": null,
-    "_comment": "Game Match Draw No Bet Run 1|2"
+    "_comment": "Game Match Draw No Bet Run 1"
   },
   "17346": {
     "selectionId": 10010,
@@ -173457,7 +173457,7 @@
     "gameVarietyId": 1,
     "pointsId": 256,
     "teamPlayerId": null,
-    "_comment": "Game Match Draw No Bet Run 1|2"
+    "_comment": "Game Match Draw No Bet Run 2"
   },
   "17347": {
     "selectionId": 1,
@@ -173467,7 +173467,7 @@
     "gameVarietyId": 1,
     "pointsId": 75,
     "teamPlayerId": null,
-    "_comment": "Game To Win the Toss Run 1|2"
+    "_comment": "Game To Win the Toss Run 1"
   },
   "17348": {
     "selectionId": 2,
@@ -173477,6 +173477,6 @@
     "gameVarietyId": 1,
     "pointsId": 256,
     "teamPlayerId": null,
-    "_comment": "Game To Win the Toss Run 1|2"
+    "_comment": "Game To Win the Toss Run 2"
   }
 }
