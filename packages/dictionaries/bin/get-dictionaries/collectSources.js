@@ -9,6 +9,7 @@ module.exports = async function collectSources() {
     marketNames: require(path.resolve(SRC_DIR, 'marketNames')),
     marketDescriptions: require(path.resolve(SRC_DIR, 'marketDescriptions')),
     marketOrders: require(path.resolve(SRC_DIR, 'marketOrders')),
+    marketGroupsLegacyMap: require(path.resolve(SRC_DIR, 'marketGroupsLegacyMap')),
   }
 
   const filePaths = await glob(`${SRC_DIR}/**/*.json`)

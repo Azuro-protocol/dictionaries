@@ -2,3 +2,9 @@
 .DS_Store
 
 node_modules/
+
+# Internal generator + raw snapshots — not for the public repo.
+# Of its generated output, dictionaries/marketGroupsLegacyMap.js is committed;
+# the per-sport group catalog (name + sort) is served by the protocol API.
+/bin/get-market-groups/
+/dictionaries/marketGroups.js
